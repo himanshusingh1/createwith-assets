@@ -1,0 +1,569 @@
+{
+  "items": [
+    {
+      "value": {
+        "textColor": "#FFFFFF",
+        "background": {
+          "color": "#2C8335"
+        },
+        "text": "Hey order above 500$ and get free delivery"
+      },
+      "type": "strip"
+    },
+    {
+      "type": "banner",
+      "value": {
+        "elements": [
+          {
+            "type": "video",
+            "value": {
+              "height": 1028,
+              "videoSrc": "https://cdn.shopify.com/videos/c/o/v/01c5d84e1c504123be718e3fc8f4e6af.mp4",
+              "action": "open_url",
+              "width": 720,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003582.png",
+              "title": "Sample Video"
+            }
+          },
+          {
+            "type": "video",
+            "value": {
+              "width": 720,
+              "videoSrc": "https://cdn.shopify.com/videos/c/o/v/617bcbd5802e426cb61af51b74c03ea3.mp4",
+              "height": 1028,
+              "title": "Sample Video",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003582.png",
+              "action": "open_url"
+            }
+          },
+          {
+            "value": {
+              "action": "open_url",
+              "height": 1028,
+              "width": 720,
+              "title": "Sample Video",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003582.png",
+              "videoSrc": "https://cdn.shopify.com/videos/c/o/v/a1897ae58ceb42ae96bedad582b8d6b3.mp4"
+            },
+            "type": "video"
+          }
+        ]
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "value": {
+        "coupons": [
+          {
+            "htmlDescription": "<h1>🎉 Hurry! Limited Offer 🎉</h1>\n<p><strong>Use code CARD-10</strong> and avail <strong>Free Delivery</strong> exclusively for SABB Cardholders!</p>\n<p>Experience the convenience of getting your purchases delivered at no extra cost.</p>\n<p>Don't miss out on this amazing deal! Shop now and enjoy the benefits of using your SABB card.</p>\n<p><em>*Offer valid for a limited time only*</em></p>\n<p>Make the most out of your shopping experience with <strong>CARD-10</strong>!</p>\n<p>Apply the code during checkout and unlock <strong>Free Delivery</strong> today!</p>\n<p>Shop hassle-free with your SABB card and enjoy the added perk of <strong>free delivery</strong>.</p>\n<p><em>*Terms and conditions apply*</em></p>\n<p>Take advantage of this offer now and get your orders delivered for free!</p>",
+            "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003654.png",
+            "title": "Free Delivery",
+            "subtitle": "Get Free Delivery For SABB Cards",
+            "code": "CARD-10"
+          },
+          {
+            "subtitle": "Shopping of organic products only",
+            "htmlDescription": "<h1>🎉 Hurry! Limited Offer 🎉</h1>\n<p><strong>Use code CARD-10</strong> and avail <strong>Free Delivery</strong> exclusively for SABB Cardholders!</p>\n<p>Experience the convenience of getting your purchases delivered at no extra cost.</p>\n<p>Don't miss out on this amazing deal! Shop now and enjoy the benefits of using your SABB card.</p>\n<p><em>*Offer valid for a limited time only*</em></p>\n<p>Make the most out of your shopping experience with <strong>CARD-10</strong>!</p>\n<p>Apply the code during checkout and unlock <strong>Free Delivery</strong> today!</p>\n<p>Shop hassle-free with your SABB card and enjoy the added perk of <strong>free delivery</strong>.</p>\n<p><em>*Terms and conditions apply*</em></p>\n<p>Take advantage of this offer now and get your orders delivered for free!</p>",
+            "title": "Flat 10$ Off",
+            "code": "Himanshu10",
+            "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003654.png"
+          }
+        ]
+      },
+      "type": "coupons"
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "value": {
+        "action": "",
+        "endTime": 723992550.389985,
+        "subtitle": "20% - 50% OFF",
+        "textColor": "#2C8335",
+        "background": {
+          "color": "#b9eabe"
+        },
+        "startTime": 723992250.389985,
+        "title": "Black friday sale | Ends In"
+      },
+      "type": "count_down_timer"
+    },
+    {
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      },
+      "type": "spacer"
+    },
+    {
+      "value": {
+        "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+        "showViewAll": true,
+        "type": "horizontal_scroll",
+        "grid_config": {
+          "contentMargin": {
+            "bottom": 16,
+            "left": 16,
+            "top": 16,
+            "right": 16
+          },
+          "column_spacing": 16,
+          "row_spacing": 16,
+          "number_of_rows": 1,
+          "number_of_column": 10
+        },
+        "subtitle": "Shop Some Great Shoes from DR MARTENS!",
+        "title": "DR MARTENS",
+        "remote_collection": {
+          "type": "remote",
+          "handle": "dr-martens",
+          "maximum": 8
+        }
+      },
+      "type": "grid"
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "grid",
+      "value": {
+        "title": "Explore Categories",
+        "grid_config": {
+          "row_spacing": 16,
+          "column_spacing": 16,
+          "number_of_column": 3,
+          "contentMargin": {
+            "bottom": 0,
+            "right": 16,
+            "top": 0,
+            "left": 16
+          },
+          "number_of_rows": 1
+        },
+        "background": {
+          "color": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 210,
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Cooking Essentials"
+            }
+          },
+          {
+            "value": {
+              "height": 210,
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "title": "Cooking Essentials",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 210,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Cooking Essentials",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Cooking Essentials",
+              "height": 210
+            }
+          },
+          {
+            "value": {
+              "width": 325,
+              "title": "Cooking Essentials",
+              "height": 210,
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 210,
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "width": 325,
+              "title": "Cooking Essentials",
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            }
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "height": 210,
+              "title": "Cooking Essentials",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            }
+          },
+          {
+            "value": {
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Cooking Essentials",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "height": 210,
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "width": 325,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003662.png",
+              "title": "Cooking Essentials",
+              "height": 210
+            },
+            "type": "image_with_title"
+          }
+        ],
+        "type": "fixed",
+        "subtitle": "10,000+ Products",
+        "action": "collection/organic",
+        "showViewAll": true
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "crousel",
+      "value": {
+        "elements": [
+          {
+            "type": "image_with_title",
+            "value": {
+              "width": 720,
+              "height": 1028,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png"
+            }
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "width": 720,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png",
+              "height": 1028
+            }
+          },
+          {
+            "value": {
+              "height": 1028,
+              "width": 720,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png",
+              "height": 1028,
+              "width": 720
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png",
+              "width": 720,
+              "height": 1028
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "width": 720,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003645.png",
+              "height": 1028
+            },
+            "type": "image_with_title"
+          }
+        ]
+      }
+    },
+    {
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      },
+      "type": "spacer"
+    },
+    {
+      "type": "grid",
+      "value": {
+        "title": "Nike is Here",
+        "subtitle": "With best Discounts get 1000+ Products",
+        "remote_collection": {
+          "type": "remote",
+          "maximum": 8,
+          "handle": "nike"
+        },
+        "grid_config": {
+          "number_of_rows": 1,
+          "row_spacing": 16,
+          "number_of_column": 10,
+          "column_spacing": 16,
+          "contentMargin": {
+            "right": 16,
+            "bottom": 16,
+            "left": 16,
+            "top": 16
+          }
+        },
+        "showViewAll": true,
+        "type": "horizontal_scroll",
+        "action": ""
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "grid",
+      "value": {
+        "showViewAll": false,
+        "grid_config": {
+          "column_spacing": 0,
+          "row_spacing": 0,
+          "number_of_rows": 1,
+          "contentMargin": {
+            "top": 0,
+            "left": 16,
+            "bottom": 0,
+            "right": 16
+          },
+          "number_of_column": 3
+        },
+        "action": "collection/organic",
+        "type": "fixed",
+        "subtitle": "Shop with Your Favorite Brand!",
+        "title": "Top Brands",
+        "elements": [
+          {
+            "value": {
+              "height": 127,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "width": 108
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "width": 108,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "height": 127,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "height": 127,
+              "width": 108,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1"
+            }
+          },
+          {
+            "value": {
+              "width": 108,
+              "height": 127,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 127,
+              "width": 108,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1"
+            }
+          },
+          {
+            "value": {
+              "height": 127,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "width": 108,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 127,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "width": 108,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 127,
+              "width": 108,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png"
+            }
+          },
+          {
+            "value": {
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003701.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "width": 108,
+              "height": 127
+            },
+            "type": "image_with_title"
+          }
+        ],
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      },
+      "type": "spacer"
+    },
+    {
+      "type": "grid",
+      "value": {
+        "title": "Nike T-Shirts and Shoes",
+        "grid_config": {
+          "number_of_rows": 1,
+          "row_spacing": 1,
+          "contentMargin": {
+            "bottom": 16,
+            "right": 16,
+            "left": 16,
+            "top": 16
+          },
+          "number_of_column": 1,
+          "column_spacing": 1
+        },
+        "showViewAll": false,
+        "elements": [
+          {
+            "type": "product",
+            "value": {
+              "handle": "nike-crackle-print-tb-tee-1"
+            }
+          },
+          {
+            "value": {
+              "handle": "nike-swoosh-pro-flat-peak-cap-1"
+            },
+            "type": "product"
+          },
+          {
+            "value": {
+              "handle": "nike-toddler-roshe-one-1"
+            },
+            "type": "product"
+          },
+          {
+            "value": {
+              "handle": "palladium-pallatech-hi-tx-chevron"
+            },
+            "type": "product"
+          }
+        ],
+        "type": "horizontal_scroll",
+        "subtitle": "Manual Selection of products",
+        "background": {
+          "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
+        }
+      }
+    },
+    {
+      "value": {
+        "elements": [
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 1028,
+              "width": 720,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/FooterforHome.png"
+            }
+          }
+        ]
+      },
+      "type": "banner"
+    }
+  ]
+}
