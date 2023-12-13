@@ -90,13 +90,13 @@
     {
       "value": {
         "action": "",
-        "endTime": 1702473432000,
+        "endTime": 1713014232000,
         "subtitle": "20% - 50% OFF",
         "textColor": "#2C8335",
         "background": {
           "color": "#b9eabe"
         },
-        "startTime": 1702473505000,
+        "startTime": 1702473820000,
         "title": "Black friday sale | Ends In"
       },
       "type": "count_down_timer"
