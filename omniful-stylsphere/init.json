@@ -66,17 +66,17 @@
     },
     "theme_id": "T1",
     "google_plist_url": "",
-    "primary_color": "#05a12e",
+    "primary_color": "#191B6B",
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "Panda"
   },
   "product_card_settings": {
     "showMultipleImages": true,
-    "showOffer": false,
-    "showAddToCartButton": false,
-    "showVariants": false,
+    "showOffer": true,
+    "showAddToCartButton": true,
+    "showVariants": true,
     "showTaxInclusion": true,
-    "showCompareAtPrice": false,
+    "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true
   }
 }
