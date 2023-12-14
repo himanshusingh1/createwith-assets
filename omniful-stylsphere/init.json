@@ -33,11 +33,11 @@
   },
   "integrations": [
     {
-      "api_key": "FUTb1IwVxVFcWdWKUov9w13YlsvhlN9GMZbGxkPn",
-      "secret_key": "4PoJRpuVZF4yydo9PiUtDdxaeWQkzJKlHQRi6ZgE",
+      "api_key": "1160da1816ea226bc4f59d22950b8e33",
+      "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
       "store_hash": "6291",
       "integration": "rating",
-      "source": "yotpo"
+      "source": "growave"
     },
     {
       "integration": "sizeChart",
