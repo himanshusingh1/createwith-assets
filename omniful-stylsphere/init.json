@@ -72,11 +72,11 @@
   },
   "product_card_settings": {
     "showMultipleImages": true,
-    "showOffer": true,
-    "showAddToCartButton": true,
-    "showVariants": true,
+    "showOffer": false,
+    "showAddToCartButton": false,
+    "showVariants": false,
     "showTaxInclusion": true,
-    "showCompareAtPrice": true,
+    "showCompareAtPrice": false,
     "showNotifyForOutOfStock": true
   }
 }
