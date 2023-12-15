@@ -189,7 +189,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon3.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon3.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Gloves",
@@ -200,7 +200,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon4.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon4.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Jackets",
@@ -211,7 +211,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon5.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon5.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Bags",
@@ -222,7 +222,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon6.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon6.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Caps",
@@ -233,7 +233,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon7.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon7.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Helmets",
@@ -244,7 +244,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon8.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon8.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "T-Shirt",
@@ -255,7 +255,7 @@
           {
             "value": {
               "height": 345,
-              "imageSrc": "-https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon9.png",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon9.png",
               "width": 324,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "title": "Pants",
@@ -281,7 +281,6 @@
     {
       "type": "grid",
       "value": {
-        "title": "nil",
         "grid_config": {
           "row_spacing": 0,
           "column_spacing": 0,
@@ -305,8 +304,7 @@
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy1.gif",
-              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "title": "nil"
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           },
           {
@@ -316,8 +314,7 @@
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy2.gif",
-              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "title": "nil"
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           },
           {
@@ -327,15 +324,12 @@
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy3.gif",
-              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "title": "nil"
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           }
         ],
         "type": "fixed",
-        "subtitle": "10,000+ Products",
-        "action": "https://test-himanshu2.myshopify.com/collections/men",
-        "showViewAll": true
+        "action": "https://test-himanshu2.myshopify.com/collections/men"
       }
     },
     {
@@ -568,19 +562,38 @@
       }
     },
     {
+      "type": "grid",
       "value": {
+        "grid_config": {
+          "row_spacing": 0,
+          "column_spacing": 0,
+          "number_of_column": 1,
+          "contentMargin": {
+            "bottom": 0,
+            "right": 0,
+            "top": 0,
+            "left": 0
+          },
+          "number_of_rows": 1
+        },
+        "background": {
+          "color": "#FFFFFF"
+        },
         "elements": [
           {
             "type": "image_with_title",
             "value": {
-              "height": 1135,
+              "height": 455,
               "width": 1170,
-              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/footer.png"
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/footer.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           }
-        ]
-      },
-      "type": "banner"
+        ],
+        "type": "fixed",
+        "action": "https://test-himanshu2.myshopify.com/collections/men"
+      }
     }
   ]
 }
