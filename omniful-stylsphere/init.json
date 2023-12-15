@@ -4,7 +4,7 @@
     "shareURL": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
-    "show_recently_viewed": true
+    "show_recently_viewed": false
   },
   "help_settings": {
     "faqPage": {
@@ -24,12 +24,12 @@
     }
   },
   "product_page_settings": {
-    "show_product_recomendations": true,
+    "show_product_recomendations": false,
     "show_including_taxes": false
   },
   "inventory_settings": {
-    "followInventoryInDelivery": true,
-    "isPickupAvailable": true
+    "followInventoryInDelivery": false,
+    "isPickupAvailable": false
   },
   "integrations": [
     {
