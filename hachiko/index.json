@@ -348,7 +348,7 @@
         },
         "background": {
           "color": "#FFFFFF",
-          "image":"https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boyblinking.gif"
+          "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boyblinking.gif"
         },
         "elements": [
           {
@@ -457,6 +457,50 @@
         "showViewAll": true,
         "type": "horizontal_scroll",
         "action": ""
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "grid",
+      "value": {
+        "showViewAll": false,
+        "grid_config": {
+          "column_spacing": 0,
+          "row_spacing": 0,
+          "number_of_rows": 1,
+          "contentMargin": {
+            "top": 0,
+            "left": 0,
+            "bottom": 0,
+            "right": 0
+          },
+          "number_of_column": 1
+        },
+        "action": "collection/organic",
+        "type": "fixed",
+        "subtitle": "Shop with Your Favorite Brand!",
+        "title": "Top Brands",
+        "elements": [
+          {
+            "value": {
+              "height": 1280,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "videoSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/neha.mp4",
+              "width": 720
+            },
+            "type": "video"
+          }
+        ],
+        "background": {
+          "color": "#FFFFFF"
+        }
       }
     },
     {
