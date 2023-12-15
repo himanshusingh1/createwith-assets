@@ -583,8 +583,8 @@
           {
             "type": "image_with_title",
             "value": {
-              "height": 1170,
-              "width": 455,
+              "height": 378,
+              "width": 390,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/footer.png",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
