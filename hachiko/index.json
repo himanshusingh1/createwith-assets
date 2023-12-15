@@ -166,8 +166,8 @@
           {
             "type": "image_with_title",
             "value": {
-              "height": 455,
-              "width": 1170,
+              "height": 1365,
+              "width": 585,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/girl2.png",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
@@ -176,8 +176,8 @@
           {
             "type": "image_with_title",
             "value": {
-              "height": 455,
-              "width": 1170,
+              "height": 1365,
+              "width": 585,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/girl1.png",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
