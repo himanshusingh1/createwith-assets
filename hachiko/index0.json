@@ -148,6 +148,14 @@
       }
     },
     {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
       "type": "grid",
       "value": {
         "showViewAll": false,
