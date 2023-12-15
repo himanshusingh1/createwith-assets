@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "grid",
+      "value": {
+        "title": "Explore Categories",
+        "grid_config": {
+          "row_spacing": 16,
+          "column_spacing": 16,
+          "number_of_column": 3,
+          "contentMargin": {
+            "bottom": 0,
+            "right": 16,
+            "top": 0,
+            "left": 16
+          },
+          "number_of_rows": 1
+        },
+        "background": {
+          "color": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 345,
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon1.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Shoes"
+            }
+          },
+          {
+            "value": {
+              "height": 345,
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon2.png",
+              "title": "Hoodies",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon3.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Gloves",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon4.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Jackets",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon5.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Bags",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon6.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Caps",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon7.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Helmets",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon8.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "T-Shirt",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 345,
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon9.png",
+              "width": 324,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "title": "Pants",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            },
+            "type": "image_with_title"
+          }
+        ],
+        "type": "fixed"
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "grid",
+      "value": {
+        "showViewAll": false,
+        "grid_config": {
+          "column_spacing": 0,
+          "row_spacing": 0,
+          "number_of_rows": 1,
+          "contentMargin": {
+            "top": 0,
+            "left": 0,
+            "bottom": 0,
+            "right": 0
+          },
+          "number_of_column": 3
+        },
+        "action": "collection/organic",
+        "type": "horizontal_scroll",
+        "subtitle": "Shop with Your Favorite Brand!",
+        "title": "Top Brands",
+        "elements": [
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand1.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand2.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand3.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand4.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand5.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          },
+          {
+            "value": {
+              "height": 243,
+              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand6.png",
+              "width": 408
+            },
+            "type": "image_with_title"
+          }
+        ],
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "spacer",
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      }
+    }
+  ]
+}
