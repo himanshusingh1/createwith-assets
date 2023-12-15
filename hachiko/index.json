@@ -137,6 +137,58 @@
       "type": "grid"
     },
     {
+      "value": {
+        "background": {
+          "color": "#FFFFFF"
+        }
+      },
+      "type": "spacer"
+    },
+    {
+      "type": "grid",
+      "value": {
+        "grid_config": {
+          "row_spacing": 0,
+          "column_spacing": 0,
+          "number_of_column": 2,
+          "contentMargin": {
+            "bottom": 0,
+            "right": 0,
+            "top": 0,
+            "left": 0
+          },
+          "number_of_rows": 1
+        },
+        "background": {
+          "color": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 455,
+              "width": 1170,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/girl2.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            }
+          },
+          {
+            "type": "image_with_title",
+            "value": {
+              "height": 455,
+              "width": 1170,
+              "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/girl1.png",
+              "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
+            }
+          }
+        ],
+        "type": "fixed",
+        "action": "https://test-himanshu2.myshopify.com/collections/men"
+      }
+    },
+    {
       "type": "spacer",
       "value": {
         "background": {
