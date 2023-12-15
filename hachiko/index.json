@@ -485,8 +485,6 @@
         },
         "action": "collection/organic",
         "type": "fixed",
-        "subtitle": "Shop with Your Favorite Brand!",
-        "title": "Top Brands",
         "elements": [
           {
             "value": {
