@@ -346,7 +346,8 @@
           "number_of_rows": 3
         },
         "background": {
-          "color": "#FFFFFF"
+          "color": "#FFFFFF",
+          "image":"https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boyblinking.gif"
         },
         "elements": [
           {
@@ -355,7 +356,7 @@
               "height": 455,
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy1.gif",
+              "imageSrc": "\"\"",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           },
@@ -365,7 +366,7 @@
               "height": 455,
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy2.gif",
+              "imageSrc": "\"\"",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           },
@@ -375,7 +376,7 @@
               "height": 455,
               "width": 1170,
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/boy3.gif",
+              "imageSrc": "\"\"",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens"
             }
           }
