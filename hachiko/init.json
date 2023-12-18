@@ -4,7 +4,7 @@
     "shareURL": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
-    "show_recently_viewed": false
+    "show_recently_viewed": true
   },
   "help_settings": {
     "faqPage": {
@@ -24,12 +24,12 @@
     }
   },
   "product_page_settings": {
-    "show_product_recomendations": false,
-    "show_including_taxes": false
+    "show_product_recomendations": true,
+    "show_including_taxes": true
   },
   "inventory_settings": {
-    "followInventoryInDelivery": false,
-    "isPickupAvailable": false
+    "followInventoryInDelivery": true,
+    "isPickupAvailable": true
   },
   "integrations": [
     {
@@ -61,7 +61,7 @@
     "app_bundle_id": "com.panda",
     "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
     "splash": {
-      "src": "sopurce",
+      "src": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/neha.mp4",
       "media_type": "video"
     },
     "theme_id": "T1",
