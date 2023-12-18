@@ -53,7 +53,7 @@
     {
       "source": "klaviyo",
       "api_key": "V75Up9",
-      "integration": "marketing"
+      "integration": "campaign"
     }
   ],
   "shopify_settings": {
