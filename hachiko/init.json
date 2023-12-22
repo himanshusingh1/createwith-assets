@@ -44,8 +44,8 @@
       "source": "kiwi"
     },
     {
-      "source": "loyaltyLion",
-      "api_key": "96c034799d56bf8cf421bc0f43ebfd02",
+      "source": "gameball",
+      "api_key": "e9eab2a73f5441b8bbc147485b193e15",
       "secret_key": "54b275435fda2afbcd684586927a5822",
       "store_hash": "",
       "integration": "loyalty"
