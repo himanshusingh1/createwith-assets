@@ -70,7 +70,7 @@
     "primary_color": "#191B6B",
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "Panda",
-    "menu_items": [{"type":"webLink","url":"https://test-himanshu2.myshopify.com","title":"Web Link"}]
+    "menu_items": [{"type":"weblink","url":"https://test-himanshu2.myshopify.com","title":"Web Link"}]
   },
   "product_card_settings": {
     "showMultipleImages": true,
