@@ -45,8 +45,8 @@
     },
     {
       "source": "gameball",
-      "api_key": "ee3620672f43460d812d49a361d88627",
-      "secret_key": "54b275435fda2afbcd684586927a5822",
+      "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
+      "secret_key": "",
       "store_hash": "",
       "integration": "loyalty"
     },
