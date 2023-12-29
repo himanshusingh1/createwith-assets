@@ -26,7 +26,7 @@
   "product_page_settings": {
     "show_product_recomendations": true,
     "show_including_taxes": true,
-    "image_size": "potrait"
+    "image_size": "square"
   },
   "inventory_settings": {
     "followInventoryInDelivery": true,
