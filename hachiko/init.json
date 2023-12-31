@@ -26,7 +26,9 @@
   "product_page_settings": {
     "show_product_recomendations": true,
     "show_including_taxes": true,
-    "image_size": "square"
+    "image_size": "square",
+    "image_content_mode":"fill"
+
   },
   "inventory_settings": {
     "followInventoryInDelivery": true,
@@ -71,7 +73,13 @@
     "primary_color": "#fcba03",
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "Panda",
-    "menu_items": [{"type":"weblink","url":"https://test-himanshu2.myshopify.com","title":"Web Link"}]
+    "menu_items": [
+      {
+        "type": "weblink",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      }
+    ]
   },
   "product_card_settings": {
     "showMultipleImages": true,
@@ -81,6 +89,7 @@
     "showTaxInclusion": true,
     "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true,
-    "image_size": "square"
+    "image_size": "square",
+    "image_content_mode":"fill"
   }
 }
