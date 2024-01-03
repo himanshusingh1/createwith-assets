@@ -1,0 +1,133 @@
+{
+  "app_share_settings": {
+    "shareText": "hey checkout the new App this is Amazing!",
+    "shareURL": "https://share.shopney.co/8K1xivKmeq"
+  },
+  "search_page_settings": {
+    "show_recently_viewed": true
+  },
+  "help_settings": {
+    "whatsapp": {
+      "number": "+971507495883",
+      "prefilledText": "Hello Want Help With!"
+    },
+    "email": {
+      "email": "info@missodd.com",
+      "prefilledSubject": "Hello There 👋",
+      "prefilledText": "Help me with the"
+    }
+  },
+  "product_page_settings": {
+    "show_product_recomendations": true,
+    "show_including_taxes": true,
+    "image_size": "potrait",
+    "image_content_mode":"fit"
+
+  },
+  "inventory_settings": {
+    "followInventoryInDelivery": false,
+    "isPickupAvailable": false
+  },
+  "integrations": [
+    {
+      "api_key": "1160da1816ea226bc4f59d22950b8e33",
+      "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
+      "store_hash": "6291",
+      "integration": "rating",
+      "source": "growave"
+    },
+    {
+      "integration": "sizeChart",
+      "source": "kiwi"
+    },
+    {
+      "source": "gameball",
+      "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
+      "secret_key": "",
+      "store_hash": "",
+      "integration": "loyalty"
+    },
+    {
+      "source": "klaviyo",
+      "api_key": "V75Up9",
+      "integration": "campaign"
+    }
+  ],
+  "shopify_settings": {
+    "store_domain": "groupbuy-ae.myshopify.com",
+    "shopify_api_key": "871553d8dff127e1f547f0480a159383"
+  },
+  "app_settings": {
+    "app_icon_src": "",
+    "privacy_policy_url": "https://missodd.com/policies/refund-policy",
+    "app_bundle_id": "com.panda",
+    "terms_and_conditions_url": "https://missodd.com/policies/refund-policy",
+    "theme_id": "T1",
+    "google_plist_url": "",
+    "primary_color": "#c62828",
+    "merchant_email": "info@missodd.com",
+    "app_name": "Miss Odd",
+    "splash" {
+        "media_type": "image",
+        "src": "https://static.shopney.co/file/5fa8580a9d52c2000157377c/21-04-2021/image/png/608043baafe9bd00017a999c.png",
+    },
+    "menu_items": [
+      {
+        "type": "weblink",
+        "url": "http://return.missodd.com/",
+        "title": "⏎ Easy Return"
+      },
+      {
+        "type": "weblink",
+        "url": "https://judge.me/reviews/groupbuy-ae.myshopify.com",
+        "title": "⭐️ Shop Review"
+      },
+      {
+        "type": "weblink",
+        "url": "https://missodd.com/pages/size-guide",
+        "title": "📏 Size Guide"
+      },
+      {
+        "type": "wishlist",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "region",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "help",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "locateus",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "rate",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "share",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+    ]
+  },
+  "product_card_settings": {
+    "showMultipleImages": true,
+    "showOffer": true,
+    "showAddToCartButton": true,
+    "showVariants": true,
+    "showTaxInclusion": true,
+    "showCompareAtPrice": true,
+    "showNotifyForOutOfStock": true,
+    "image_size": "potrait",
+    "image_content_mode":"fit"
+  }
+}
