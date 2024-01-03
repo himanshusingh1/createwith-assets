@@ -26,15 +26,14 @@
           },
           "number_of_column": 1
         },
-        "action": "https://www.afterpay.com/global/country-select",
         "type": "fixed",
         "elements": [
           {
             "value": {
               "height": 132,
-              "action": "https://static.shopney.co/file/5fa8580a9d52c2000157377c/30-09-2022/image/jpeg/6336a0b9a7461a0009f35d59.jpeg",
-              "videoSrc": "\"\"",
-              "width": 1286
+              "imageSrc":"https://static.shopney.co/file/5fa8580a9d52c2000157377c/30-09-2022/image/jpeg/6336a0b9a7461a0009f35d59.jpeg",
+              "width": 1286,
+              "action":"https://www.afterpay.com/global/country-select"
             },
             "type": "image_with_title"
           }
