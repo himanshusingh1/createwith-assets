@@ -36,7 +36,7 @@
               "videoSrc": "\"\"",
               "width": 1286
             },
-            "type": "image"
+            "type": "image_with_title"
           }
         ],
         "background": {
