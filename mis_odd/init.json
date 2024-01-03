@@ -21,8 +21,7 @@
     "show_product_recomendations": true,
     "show_including_taxes": true,
     "image_size": "potrait",
-    "image_content_mode":"fit"
-
+    "image_content_mode": "fit"
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
@@ -67,9 +66,9 @@
     "primary_color": "#c62828",
     "merchant_email": "info@missodd.com",
     "app_name": "Miss Odd",
-    "splash" {
-        "media_type": "image",
-        "src": "https://static.shopney.co/file/5fa8580a9d52c2000157377c/21-04-2021/image/png/608043baafe9bd00017a999c.png",
+    "splash": {
+      "media_type": "image",
+      "src": "https://static.shopney.co/file/5fa8580a9d52c2000157377c/21-04-2021/image/png/608043baafe9bd00017a999c.png"
     },
     "menu_items": [
       {
@@ -116,7 +115,7 @@
         "type": "share",
         "url": "https://test-himanshu2.myshopify.com",
         "title": "Web Link"
-      },
+      }
     ]
   },
   "product_card_settings": {
@@ -128,6 +127,6 @@
     "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true,
     "image_size": "potrait",
-    "image_content_mode":"fit"
+    "image_content_mode": "fit"
   }
 }
