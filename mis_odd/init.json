@@ -21,7 +21,7 @@
     "show_product_recomendations": true,
     "show_including_taxes": true,
     "image_size": "potrait",
-    "image_content_mode": "fit"
+    "image_content_mode": "scale_fill"
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
@@ -127,6 +127,6 @@
     "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true,
     "image_size": "potrait",
-    "image_content_mode": "fill"
+    "image_content_mode": "scale_fill"
   }
 }
