@@ -36,10 +36,6 @@
       "source": "growave"
     },
     {
-      "integration": "sizeChart",
-      "source": "kiwi"
-    },
-    {
       "source": "gameball",
       "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
       "secret_key": "",
