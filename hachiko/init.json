@@ -27,8 +27,31 @@
     "show_product_recomendations": true,
     "show_including_taxes": true,
     "image_size": "square",
-    "image_content_mode":"fill"
-
+    "image_content_mode":"fill",
+    "pay_later" : {
+        "show_pay_later": true,
+        "image_src": "sASA",
+        "min_amount": {
+            "amount" : 120.0,
+            "currency": "INR"
+        },
+        "installment": 4,
+        "action_url": "https://google.com"
+      },
+      "web_link": [
+        {
+          "show_web_link": true,
+          "image_src": "sasa",
+          "title": "saasas",
+          "action_url": "https://google.com"
+        },
+        {
+          "show_web_link": true,
+          "image_src": "sasasasa",
+          "title": "sasasas",
+          "action_url": "SADAFSDSDFS"
+        }
+      ]
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
