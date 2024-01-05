@@ -35,6 +35,7 @@
             "currency": "INR"
         },
         "installment": 4,
+        "title": "{{amount}} 4 installment",
         "action_url": "https://google.com"
       },
       "web_link": [
