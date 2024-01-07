@@ -66,7 +66,7 @@
   "app_settings": {
     "app_icon_src": "",
     "privacy_policy_url": "https://al-sadhan.com",
-    "app_bundle_id": "com.panda",
+    "app_bundle_id": "com.omniful.app",
     "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
     "theme_id": "T1",
     "google_plist_url": "",
