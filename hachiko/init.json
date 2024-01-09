@@ -57,11 +57,11 @@
   },
   "integrations": [
     {
-      "api_key": "1160da1816ea226bc4f59d22950b8e33",
-      "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
+      "api_key": "eRfn9LAd995OVqriEa0yNx_6LDs",
+      "secret_key": "test-himanshu2.myshopify.com",
       "store_hash": "6291",
       "integration": "rating",
-      "source": "growave"
+      "source": "judgeMe"
     },
     {
       "integration": "sizeChart",
