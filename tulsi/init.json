@@ -32,7 +32,7 @@
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
-    "isPickupAvailable": false
+    "isPickupAvailable": true
   },
   "integrations": [
     {
