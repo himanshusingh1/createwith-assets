@@ -26,8 +26,8 @@
   "product_page_settings": {
     "show_product_recomendations": true,
     "show_including_taxes": true,
-    "image_size": "square",
-    "image_content_mode":"fit"
+    "image_size": "landscape",
+    "image_content_mode":"fill"
 
   },
   "inventory_settings": {
