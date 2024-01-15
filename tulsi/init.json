@@ -59,7 +59,7 @@
       "integration": "campaign"
     },
     {
-      "source": "clevertap",
+      "source": "cleverTap",
       "api_key": "api_key",
       "secret_key": "secret_key",
       "integration": "campaign"
