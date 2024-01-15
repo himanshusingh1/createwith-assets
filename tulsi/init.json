@@ -57,6 +57,12 @@
       "source": "klaviyo",
       "api_key": "V75Up9",
       "integration": "campaign"
+    },
+    {
+      "source": "clevertap",
+      "api_key": "api_key",
+      "secret_key": "secret_key",
+      "integration": "campaign"
     }
   ],
   "shopify_settings": {
