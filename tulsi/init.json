@@ -119,7 +119,7 @@
     "showTaxInclusion": true,
     "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true,
-    "image_size": "potrait",
+    "image_size": "square",
     "image_content_mode":"fill"
   }
 }
