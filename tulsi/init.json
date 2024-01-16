@@ -35,7 +35,8 @@
             }],
             "installment": 4,
             "title": "{{amount}} x 4 installment",
-            "action_url": "https://google.com"
+            "action_url": "https://google.com",
+            "image_src":"https://static.shopney.co/integrations/paymentInstalment/afterpay.png"
         },
             {
                 "min_amount": [{
