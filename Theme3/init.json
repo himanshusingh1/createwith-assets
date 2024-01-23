@@ -1,0 +1,163 @@
+{
+    "app_share_settings": {
+        "shareText": "hey checkout the app",
+        "shareURL": "https://test-himanshu2.myshopify.com"
+    },
+    "search_page_settings": {
+        "show_recently_viewed": true
+    },
+    "help_settings": {
+        "faqPage": {
+            "loadURL": "https://test-himanshu2.myshopify.com/pages/contact"
+        },
+        "shopify_inbox": {
+            "loadUrl": "https://test-himanshu2.myshopify.com/?show_chat"
+        },
+        "whatsapp": {
+            "number": "+919501975529",
+            "prefilledText": "Hello Want Help With!"
+        },
+        "email": {
+            "email": "himanshusingh@hotmail.co.uk",
+            "prefilledSubject": "Help me with",
+            "prefilledText": "Hello there"
+        }
+    },
+    "product_page_settings": {
+        "show_product_recomendations": true,
+        "show_including_taxes": true,
+        "image_size": "potrait",
+        "image_content_mode":"fill",
+        "pay_later" : [{
+            "min_amount": [{
+                "amount" : 120.0,
+                "currency": "INR"
+            }],
+            "installment": 4,
+            "title": "{{amount}} x 4 installment",
+            "action_url": "https://google.com",
+            "image_src":"https://static.shopney.co/integrations/paymentInstalment/afterpay.png"
+        },
+            {
+                "min_amount": [{
+                    "amount" : 120.0,
+                    "currency": "INR"
+                }],
+                "installment": 4,
+                "title": "{{amount}} x 4 installment",
+                "action_url": "https://google.com"
+            }
+        ],
+        "web_link": [
+            {
+                "show_web_link": true,
+                "title": "link 1",
+                "action_url": "https://google.com"
+            },
+            {
+                "show_web_link": true,
+                "title": "link 2",
+                "action_url": "https://shopify.com"
+            }
+        ]
+        
+    },
+    "inventory_settings": {
+        "followInventoryInDelivery": false,
+        "isPickupAvailable": true
+    },
+    "integrations": [
+        {
+            "api_key": "1160da1816ea226bc4f59d22950b8e33",
+            "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
+            "store_hash": "6291",
+            "integration": "rating",
+            "source": "growave"
+        },
+        {
+            "integration": "sizeChart",
+            "source": "kiwi"
+        },
+        {
+            "source": "gameball",
+            "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
+            "secret_key": "",
+            "store_hash": "",
+            "integration": "loyalty"
+        },
+        {
+            "source": "klaviyo",
+            "api_key": "V75Up9",
+            "integration": "campaign"
+        },
+        {
+            "source": "cleverTap",
+            "api_key": "api_key",
+            "secret_key": "secret_key",
+            "integration": "campaign"
+        }
+    ],
+    "shopify_settings": {
+        "store_domain": "test-himanshu2.myshopify.com",
+        "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
+    },
+    "app_settings": {
+        "app_icon_src": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+        "privacy_policy_url": "https://al-sadhan.com",
+        "app_bundle_id": "com.omniful.app",
+        "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
+        "theme_id": "Theme3",
+        "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/GoogleService-Info.plist",
+        "primary_color": "#f77a7a",
+        "merchant_email": "himanshusingh@hotmail.co.uk",
+        "app_name": "RED",
+        "menu_items": [
+            {
+                "type": "weblink",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "wishlist",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "region",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "help",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "locateus",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "rate",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            },
+            {
+                "type": "share",
+                "url": "https://test-himanshu2.myshopify.com",
+                "title": "Web Link"
+            }
+        ]
+    },
+    "product_card_settings": {
+        "showMultipleImages": true,
+        "showOffer": true,
+        "showAddToCartButton": true,
+        "showVariants": true,
+        "showTaxInclusion": true,
+        "showCompareAtPrice": true,
+        "showNotifyForOutOfStock": true,
+        "image_size": "square",
+        "image_content_mode":"fill"
+    }
+}
