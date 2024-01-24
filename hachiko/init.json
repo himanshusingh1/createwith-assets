@@ -26,42 +26,57 @@
   "product_page_settings": {
     "show_product_recomendations": true,
     "show_including_taxes": true,
-    "image_size": "square",
-    "image_content_mode":"fill",
-    "pay_later" : {
-        "show_pay_later": true,
-        "min_amount": {
-            "amount" : 120.0,
+    "image_size": "potrait",
+    "image_content_mode": "fill",
+    "pay_later": [
+      {
+        "min_amount": [
+          {
+            "amount": 120.0,
             "currency": "INR"
-        },
+          }
+        ],
+        "installment": 4,
+        "title": "{{amount}} x 4 installment",
+        "action_url": "https://google.com",
+        "image_src": "https://static.shopney.co/integrations/paymentInstalment/afterpay.png"
+      },
+      {
+        "min_amount": [
+          {
+            "amount": 120.0,
+            "currency": "INR"
+          }
+        ],
         "installment": 4,
         "title": "{{amount}} x 4 installment",
         "action_url": "https://google.com"
+      }
+    ],
+    "web_link": [
+      {
+        "show_web_link": true,
+        "title": "link 1",
+        "action_url": "https://google.com"
       },
-      "web_link": [
-        {
-          "show_web_link": true,
-          "title": "saasas",
-          "action_url": "https://google.com"
-        },
-        {
-          "show_web_link": true,
-          "title": "sasasas",
-          "action_url": "SADAFSDSDFS"
-        }
-      ]
+      {
+        "show_web_link": true,
+        "title": "link 2",
+        "action_url": "https://shopify.com"
+      }
+    ]
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
-    "isPickupAvailable": false
+    "isPickupAvailable": true
   },
   "integrations": [
     {
-      "api_key": "eRfn9LAd995OVqriEa0yNx_6LDs",
-      "secret_key": "test-himanshu2.myshopify.com",
+      "api_key": "1160da1816ea226bc4f59d22950b8e33",
+      "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
       "store_hash": "6291",
       "integration": "rating",
-      "source": "judgeMe"
+      "source": "growave"
     },
     {
       "integration": "sizeChart",
@@ -78,6 +93,12 @@
       "source": "klaviyo",
       "api_key": "V75Up9",
       "integration": "campaign"
+    },
+    {
+      "source": "cleverTap",
+      "api_key": "api_key",
+      "secret_key": "secret_key",
+      "integration": "campaign"
     }
   ],
   "shopify_settings": {
@@ -85,18 +106,49 @@
     "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
   },
   "app_settings": {
-    "app_icon_src": "",
+    "app_icon_src": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
     "privacy_policy_url": "https://al-sadhan.com",
-    "app_bundle_id": "com.omniful.debugapp",
+    "app_bundle_id": "com.omniful.app",
     "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
-    "theme_id": "T1",
-    "google_plist_url": "",
-    "primary_color": "#272727",
+    "theme_id": "Theme3",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/GoogleService-Info.plist",
+    "primary_color": "#54b175",
+    "secondary_color": "#fb8383",
     "merchant_email": "himanshusingh@hotmail.co.uk",
-    "app_name": "Panda",
+    "app_name": "RED",
     "menu_items": [
       {
         "type": "weblink",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "wishlist",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "region",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "help",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "locateus",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "rate",
+        "url": "https://test-himanshu2.myshopify.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "share",
         "url": "https://test-himanshu2.myshopify.com",
         "title": "Web Link"
       }
@@ -110,7 +162,7 @@
     "showTaxInclusion": true,
     "showCompareAtPrice": true,
     "showNotifyForOutOfStock": true,
-    "image_size": "square",
-    "image_content_mode":"fill"
+    "image_size": "potrait",
+    "image_content_mode": "fill"
   }
 }
