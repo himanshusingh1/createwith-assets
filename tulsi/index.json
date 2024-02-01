@@ -90,9 +90,9 @@
     {
       "value": {
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1706787585000
-        }
+          "start_time": 1706786585000.0,
+          "end_time": 1706787585000.0
+        },
         "action": "",
         "endTime": 1713014232000,
         "subtitle": "20% - 50% OFF",
