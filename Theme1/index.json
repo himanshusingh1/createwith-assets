@@ -9,7 +9,7 @@
         "text_alignment": "leading",
         "text": "Hey order above 500${'$'} and get free delivery",
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       },
@@ -54,7 +54,7 @@
           }
         ],
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -86,7 +86,7 @@
           }
         ],
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       },
@@ -103,7 +103,7 @@
     {
       "value": {
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         },
         "action": "",
@@ -149,7 +149,7 @@
           "maximum": 8
         },
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       },
@@ -207,7 +207,7 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -345,7 +345,7 @@
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "showViewAll": true,
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -411,7 +411,7 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -454,7 +454,7 @@
           }
         ],
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -493,7 +493,7 @@
         "type": "horizontal_scroll",
         "action": "",
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -539,7 +539,7 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -632,7 +632,7 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -702,7 +702,7 @@
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
         },
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
@@ -740,7 +740,7 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 000000000,
+          "start_time": 100000000,
           "end_time": 1706959505
         }
       }
