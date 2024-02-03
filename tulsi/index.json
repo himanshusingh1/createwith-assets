@@ -9,8 +9,8 @@
         "text_alignment": "leading",
         "text": "Hey order above 500${'$'} and get free delivery",
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       },
       "type": "strip"
@@ -54,8 +54,8 @@
           }
         ],
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -86,8 +86,8 @@
           }
         ],
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       },
       "type": "coupons"
@@ -103,8 +103,8 @@
     {
       "value": {
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         },
         "action": "",
         "subtitle": "20% - 50% OFF",
@@ -149,8 +149,8 @@
           "maximum": 8
         },
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       },
       "type": "grid"
@@ -207,8 +207,8 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -345,8 +345,8 @@
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "showViewAll": true,
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -411,8 +411,8 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -454,8 +454,8 @@
           }
         ],
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -493,8 +493,8 @@
         "type": "horizontal_scroll",
         "action": "",
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -539,8 +539,8 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -632,8 +632,8 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -702,8 +702,8 @@
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
         },
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     },
@@ -740,11 +740,13 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-          "start_time": 1706786585000,
-          "end_time": 1702636800000
+          "start_time": 1706958505,
+          "end_time": 1706959505
         }
       }
     }
   ]
 }
+
+
 
