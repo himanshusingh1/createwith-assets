@@ -6,8 +6,12 @@
         "background": {
           "color": "#e47571"
         },
-        "text_alignment" : "center",
-        "text": "Hey order above 500$ and get free delivery"
+        "text_alignment": "leading",
+        "text": "Hey order above 500${'$'} and get free delivery",
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       },
       "type": "strip"
     },
@@ -48,7 +52,11 @@
             },
             "type": "video"
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1706786585000
+        }
       }
     },
     {
@@ -76,7 +84,11 @@
             "code": "Himanshu10",
             "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003654.png"
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       },
       "type": "coupons"
     },
@@ -90,14 +102,16 @@
     },
     {
       "value": {
-        "action": "",
-        "endTime": 1713014232000,
-        "subtitle": "20% - 50% OFF",
-        "textColor": "#ffffff",
-        "background": {
-          "color": "#fffff"
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
         },
-        "startTime": 1702473820000,
+        "action": "",
+        "subtitle": "20% - 50% OFF",
+        "textColor": "#2C8335",
+        "background": {
+          "color": "#B9EABE"
+        },
         "title": "Black friday sale | Ends In"
       },
       "type": "count_down_timer"
@@ -133,6 +147,10 @@
           "type": "remote",
           "handle": "dr-martens",
           "maximum": 8
+        },
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
         }
       },
       "type": "grid"
@@ -187,7 +205,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     },
     {
@@ -321,7 +343,11 @@
         "type": "fixed",
         "subtitle": "10,000+ Products",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
-        "showViewAll": true
+        "showViewAll": true,
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     },
     {
@@ -383,7 +409,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     },
     {
@@ -422,7 +452,11 @@
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/banner4.png"
             }
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     },
     {
@@ -457,7 +491,11 @@
         },
         "showViewAll": true,
         "type": "horizontal_scroll",
-        "action": ""
+        "action": "",
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     },
     {
@@ -499,6 +537,10 @@
         ],
         "background": {
           "color": "#FFFFFF"
+        },
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
         }
       }
     },
@@ -588,6 +630,10 @@
         ],
         "background": {
           "color": "#FFFFFF"
+        },
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
         }
       }
     },
@@ -654,6 +700,10 @@
         "subtitle": "Manual Selection of products",
         "background": {
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
+        },
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
         }
       }
     },
@@ -688,7 +738,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1706786585000,
+          "end_time": 1712049560000
+        }
       }
     }
   ]
