@@ -9,8 +9,8 @@
         "text_alignment": "leading",
         "text": "Hey order above 500${'$'} and get free delivery",
         "visibility_time": {
-          "start_time": 100000000000,
-          "end_time": 1706959505000
+          "start_time": 1707036631000,
+          "end_time": 1712220294000
         }
       },
       "type": "strip"
@@ -54,8 +54,8 @@
           }
         ],
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -86,8 +86,8 @@
           }
         ],
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       },
       "type": "coupons"
@@ -103,8 +103,8 @@
     {
       "value": {
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         },
         "action": "",
         "subtitle": "20% - 50% OFF",
@@ -149,8 +149,8 @@
           "maximum": 8
         },
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       },
       "type": "grid"
@@ -207,8 +207,8 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -345,8 +345,8 @@
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "showViewAll": true,
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -411,8 +411,8 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -454,8 +454,8 @@
           }
         ],
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -493,8 +493,8 @@
         "type": "horizontal_scroll",
         "action": "",
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -539,8 +539,8 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -632,8 +632,8 @@
           "color": "#FFFFFF"
         },
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -702,8 +702,8 @@
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
         },
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     },
@@ -740,10 +740,16 @@
         "type": "fixed",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
         "visibility_time": {
-            "start_time": 100000000000,
-            "end_time": 1706959505000
+            "start_time": 1707036631000,
+            "end_time": 1712220294000
         }
       }
     }
   ]
 }
+
+
+
+
+
+
