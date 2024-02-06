@@ -86,9 +86,16 @@
             "integration": "loyalty"
         },
         {
+            "source": "gameball",
+            "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
+            "secret_key": "",
+            "store_hash": "",
+            "integration": "analytics"
+        },
+        {
             "source": "klaviyo",
             "api_key": "V75Up9",
-            "integration": "campaign"
+            "integration": "analytics"
         },
         {
             "source": "cleverTap",
