@@ -81,20 +81,29 @@
         {
             "source": "gameball",
             "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
-            "secret_key": "",
+            "secret_key": "e87eead105174d1396853fed888264e6",
             "store_hash": "",
             "integration": "loyalty"
         },
         {
             "source": "gameball",
             "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
-            "secret_key": "",
+            "secret_key": "e87eead105174d1396853fed888264e6",
             "store_hash": "",
             "integration": "analytics"
         },
         {
             "source": "klaviyo",
-            "api_key": "V75Up9",
+            "api_key": "Vbprz9",
+            "secret_key": "",
+            "store_hash": "",
+            "integration": "analytics"
+        },
+        {
+            "source": "uxcam",
+            "api_key": "3l1iscihbmwz0o9",
+            "secret_key": "",
+            "store_hash": "",
             "integration": "analytics"
         },
         {

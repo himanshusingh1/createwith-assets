@@ -81,20 +81,29 @@
         {
             "source": "gameball",
             "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
-            "secret_key": "",
+            "secret_key": "e87eead105174d1396853fed888264e6",
             "store_hash": "",
             "integration": "loyalty"
         },
         {
             "source": "gameball",
             "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
-            "secret_key": "",
+            "secret_key": "e87eead105174d1396853fed888264e6",
             "store_hash": "",
             "integration": "analytics"
         },
         {
             "source": "klaviyo",
-            "api_key": "V75Up9",
+            "api_key": "Vbprz9",
+            "secret_key": "",
+            "store_hash": "",
+            "integration": "analytics"
+        },
+        {
+            "source": "uxcam",
+            "api_key": "3l1iscihbmwz0o9",
+            "secret_key": "",
+            "store_hash": "",
             "integration": "analytics"
         },
         {
@@ -113,7 +122,7 @@
         "privacy_policy_url": "https://al-sadhan.com",
         "app_bundle_id": "com.omniful.app",
         "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
-        "theme_id": "Theme2",
+        "theme_id": "Theme1",
         "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/GoogleService-Info.plist",
         "primary_color": "#f77a7a",
         "merchant_email": "himanshusingh@hotmail.co.uk",
