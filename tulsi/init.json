@@ -99,9 +99,9 @@
         },
         {
             "source": "cleverTap",
-            "api_key": "api_key",
-            "secret_key": "secret_key",
-            "integration": "campaign"
+            "api_key": "TEST-Z46-W8R-7W7Z",
+            "secret_key": "TEST-2b0-641",
+            "integration": "analytics"
         }
     ],
     "shopify_settings": {
