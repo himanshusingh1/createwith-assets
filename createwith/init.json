@@ -119,6 +119,7 @@
     },
     "app_settings": {
         "app_icon_src": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+        "store_logo":"https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/store_logo.png",
         "privacy_policy_url": "https://al-sadhan.com",
         "app_bundle_id": "com.omniful.app",
         "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
