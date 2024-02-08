@@ -575,6 +575,7 @@
         "elements": [
           {
             "value": {
+              "title": "Shoes",
               "height": 243,
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand1.png",
@@ -603,6 +604,7 @@
           {
             "value": {
               "height": 243,
+              "title": "Shoes",
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand4.png",
               "width": 408
