@@ -68,7 +68,8 @@
   },
   "inventory_settings": {
     "followInventoryInDelivery": false,
-    "isPickupAvailable": true
+    "isPickupAvailable": true,
+    "few_left_in_stock": 8
   },
   "integrations": [
     {
@@ -131,7 +132,8 @@
     "primary_color": "#f77a7a",
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "RED",
-    "menu_items": []
+    "menu_items": [],
+    "force_country_avilability": true
   },
   "product_card_settings": {
     "showMultipleImages": true,
