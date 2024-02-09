@@ -133,7 +133,7 @@
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "RED",
     "menu_items": [],
-    "force_country_avilability": false
+    "force_country_availability": false
   },
   "product_card_settings": {
     "showMultipleImages": true,
