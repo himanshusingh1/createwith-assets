@@ -225,9 +225,9 @@
       "value": {
         "title": "Explore Categories",
         "grid_config": {
-          "row_spacing": 0,
-          "column_spacing": 0,
-          "number_of_column": 4,
+          "row_spacing": 16,
+          "column_spacing": 16,
+          "number_of_column": 3,
           "contentMargin": {
             "bottom": 0,
             "right": 16,
