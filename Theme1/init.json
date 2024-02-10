@@ -107,6 +107,13 @@
             "integration": "analytics"
         },
         {
+            "source": "firebase",
+            "api_key": "",
+            "secret_key": "",
+            "store_hash": "",
+            "integration": "analytics"
+        },
+        {
             "source": "cleverTap",
             "api_key": "TEST-Z46-W8R-7W7Z",
             "secret_key": "TEST-2b0-641",
@@ -177,3 +184,4 @@
         "image_content_mode":"fill"
     }
 }
+
