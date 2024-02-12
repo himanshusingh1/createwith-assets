@@ -1,14 +1,14 @@
 {
   "app_share_settings": {
-    "share_text": "Hey 👋 checkout the maple App From Omniful it is awsome",
-    "share_url": "https://omniful.com/"
+    "share_text": "hey checkout the maple App From Omniful it is awsome",
+    "share_url": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
     "show_recently_viewed": true
   },
   "help_settings": {
     "faq_page": {
-      "load_url": "https://www.omniful.com/knowledge-base"
+      "load_url": "https://test-himanshu2.myshopify.com/pages/contact"
     },
     "whatsapp": {
       "number": "+919501975529",
@@ -21,7 +21,7 @@
     }
   },
   "product_page_settings": {
-    "show_product_recomendations": true,
+    "show_product_recommendations": true,
     "show_including_taxes": true,
     "image_size": "square",
     "image_content_mode": "fill",
