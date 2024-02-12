@@ -4,9 +4,14 @@
       "value": {
         "textColor": "#FFFFFF",
         "background": {
-          "color": "#191B6B"
+          "color": "#e47571"
         },
-        "text": "Hey order above 500$ and get free delivery"
+        "text_alignment": "leading",
+        "text": "Hey order above 500${'$'} and get free delivery",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       },
       "type": "strip"
     },
@@ -47,7 +52,11 @@
             },
             "type": "video"
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -75,7 +84,11 @@
             "code": "Himanshu10",
             "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Frame1000003654.png"
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       },
       "type": "coupons"
     },
@@ -89,14 +102,16 @@
     },
     {
       "value": {
-        "action": "",
-        "endTime": 1713014232000,
-        "subtitle": "20% - 50% OFF",
-        "textColor": "#191B6B",
-        "background": {
-          "color": "#D4F3F5"
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
         },
-        "startTime": 1702473820000,
+        "action": "",
+        "subtitle": "20% - 50% OFF",
+        "textColor": "#2C8335",
+        "background": {
+          "color": "#B9EABE"
+        },
         "title": "Black friday sale | Ends In"
       },
       "type": "count_down_timer"
@@ -132,6 +147,10 @@
           "type": "remote",
           "handle": "dr-martens",
           "maximum": 8
+        },
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
         }
       },
       "type": "grid"
@@ -186,7 +205,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -225,7 +248,7 @@
               "handle": "https://test-himanshu2.myshopify.com/collections/dr-martens",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/category_icon1.png",
               "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
-              "title": "Shoes"
+              "title": "Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes Shoes "
             }
           },
           {
@@ -320,7 +343,11 @@
         "type": "fixed",
         "subtitle": "10,000+ Products",
         "action": "https://test-himanshu2.myshopify.com/collections/men",
-        "showViewAll": true
+        "showViewAll": true,
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -382,7 +409,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -421,7 +452,11 @@
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/banner4.png"
             }
           }
-        ]
+        ],
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -456,7 +491,11 @@
         },
         "showViewAll": true,
         "type": "horizontal_scroll",
-        "action": ""
+        "action": "",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     },
     {
@@ -498,6 +537,10 @@
         ],
         "background": {
           "color": "#FFFFFF"
+        },
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
         }
       }
     },
@@ -532,6 +575,7 @@
         "elements": [
           {
             "value": {
+              "title": "Shoes",
               "height": 243,
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand1.png",
@@ -560,6 +604,7 @@
           {
             "value": {
               "height": 243,
+              "title": "Shoes",
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand4.png",
               "width": 408
@@ -587,6 +632,10 @@
         ],
         "background": {
           "color": "#FFFFFF"
+        },
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
         }
       }
     },
@@ -653,6 +702,10 @@
         "subtitle": "Manual Selection of products",
         "background": {
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/images.jpeg"
+        },
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
         }
       }
     },
@@ -687,7 +740,11 @@
           }
         ],
         "type": "fixed",
-        "action": "https://test-himanshu2.myshopify.com/collections/men"
+        "action": "https://test-himanshu2.myshopify.com/collections/men",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
       }
     }
   ]
