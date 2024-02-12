@@ -1,0 +1,172 @@
+{
+  "app_share_settings": {
+    "share_text": "hey checkout the maple App From Omniful it is awsome",
+    "share_url": "https://test-himanshu2.myshopify.com"
+  },
+  "search_page_settings": {
+    "show_recently_viewed": true
+  },
+  "help_settings": {
+    "faq_page": {
+      "load_url": "https://test-himanshu2.myshopify.com/pages/contact"
+    },
+    "whatsapp": {
+      "number": "+919501975529",
+      "prefilled_text": "Hello I loved 🥰 your App Can we connect!"
+    },
+    "email": {
+      "email": "himanshu.singh@omniful.com",
+      "prefilled_subject": "Hey there!",
+      "prefilled_text": "Want some help with buying products from your store"
+    }
+  },
+  "product_page_settings": {
+    "show_product_recommendations": true,
+    "show_including_taxes": true,
+    "image_size": "square",
+    "image_content_mode": "fill",
+    "pay_later_options": [
+      {
+        "min_amount": [
+          {
+            "amount": 120.0,
+            "currency": "INR"
+          }
+        ],
+        "installment": 4,
+        "title": "{{amount}} x 4 installment",
+        "action_url": "https://www.afterpay.com/",
+        "image_src": "https://static.shopney.co/integrations/paymentInstalment/afterpay.png"
+      }
+    ],
+    "universal_product_page_tabs": [
+      {
+        "show_web_link": true,
+        "title": "Read our privacy policy",
+        "action_url": "https://www.omniful.com/privacy-policy"
+      },
+      {
+        "show_web_link": true,
+        "title": "Read more about After pay",
+        "action_url": "https://www.afterpay.com/"
+      }
+    ]
+  },
+  "inventory_settings": {
+    "follows_inventory_in_delivery": false,
+    "is_pickup_available": true,
+    "few_left_in_stock": 5,
+    "force_country_checking": false
+  },
+  "integrations": [
+    {
+      "api_key": "1160da1816ea226bc4f59d22950b8e33",
+      "secret_key": "74fc4b65748a467aa5420169cf1cb0de",
+      "store_hash": "6291",
+      "integration": "rating",
+      "source": "growave"
+    },
+    {
+      "integration": "sizeChart",
+      "source": "kiwi"
+    },
+    {
+      "source": "gameball",
+      "api_key": "0f150271a89241a4a6e2cb18ea15f4d3",
+      "secret_key": "e87eead105174d1396853fed888264e6",
+      "store_hash": "",
+      "integration": "analytics"
+    },
+    {
+      "source": "klaviyo",
+      "api_key": "Vbprz9",
+      "secret_key": "",
+      "store_hash": "",
+      "integration": "analytics"
+    },
+    {
+      "source": "uxcam",
+      "api_key": "3l1iscihbmwz0o9",
+      "secret_key": "",
+      "store_hash": "",
+      "integration": "analytics"
+    },
+    {
+      "source": "firebase",
+      "api_key": "",
+      "secret_key": "",
+      "store_hash": "",
+      "integration": "analytics"
+    },
+    {
+      "source": "cleverTap",
+      "api_key": "TEST-Z46-W8R-7W7Z",
+      "secret_key": "TEST-2b0-641",
+      "integration": "analytics"
+    }
+  ],
+  "shopify_settings": {
+    "store_domain": "test-himanshu2.myshopify.com",
+    "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
+  },
+  "app_settings": {
+    "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+    "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+    "privacy_policy_url": "https://www.omniful.com/privacy-policy",
+    "app_bundle_id_ios": "theme.omniful.maple",
+    "app_bundle_id_android": "theme.omniful.maple",
+    "terms_and_conditions_url": "https://www.omniful.com/terms-of-service",
+    "theme_id": "Theme1",
+    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/GoogleService-Info.plist",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/google-services.json",
+    "primary_color": "#2C8335",
+    "merchant_email": "himanshusingh@hotmail.co.uk",
+    "app_name": "Maple",
+    "menu_items": [
+      {
+        "type": "weblink",
+        "url": "https://omniful.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "wishlist"
+      },
+      {
+        "type": "region"
+      },
+      {
+        "type": "help"
+      },
+      {
+        "type": "locateus"
+      },
+      {
+        "type": "rate"
+      },
+      {
+        "type": "share"
+      }
+    ]
+  },
+  "product_card_settings": {
+    "show_multiple_images": true,
+    "show_offer": true,
+    "show_add_to_cart_button": true,
+    "show_variants": true,
+    "show_tax_inclusion": true,
+    "show_compare_at_price": true,
+    "show_notify_for_outofstock": true,
+    "image_size": "square",
+    "image_content_mode": "fill"
+  },
+  "force_update": {
+    "ios": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    },
+    "android": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    }
+  }
+}
