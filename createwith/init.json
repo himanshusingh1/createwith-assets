@@ -11,7 +11,7 @@
             "loadURL": "https://test-himanshu2.myshopify.com/pages/contact"
         },
         "shopify_inbox": {
-            "loadUrl": "https://test-himanshu2.myshopify.com/?show_chat"
+            "loadUrl": "https://test-himanshu2.myshopify.com/?chat"
         },
         "whatsapp": {
             "number": "+919501975529",
@@ -126,7 +126,7 @@
         "theme_id": "Theme1",
         "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/GoogleService-Info.plist",
         "primary_color": "#716AE9",
-        "secondary_color": "#5CB384",
+        "secondary_color": "#fffff",
         "merchant_email": "himanshusingh@hotmail.co.uk",
         "app_name": "RED",
         "menu_items": [
