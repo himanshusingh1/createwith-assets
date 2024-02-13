@@ -1,6 +1,6 @@
 {
   "app_share_settings": {
-    "share_text": "hey checkout the maple App From Omniful it is awsome",
+    "share_text": "hey checkout the App From Omniful it is awsome",
     "share_url": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
@@ -106,8 +106,8 @@
     }
   ],
   "shopify_settings": {
-    "store_domain": "test-himanshu2.myshopify.com",
-    "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
+    "store_domain": "omniful-grocery.myshopify.com",
+    "shopify_api_key": "7855a61f3e68a995db5248dc7ad8c0cc"
   },
   "app_settings": {
     "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
