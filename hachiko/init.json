@@ -1,6 +1,6 @@
 {
   "app_share_settings": {
-    "share_text": "hey checkout the maple App From Omniful it is awsome",
+    "share_text": "hey checkout the Hachiko App From Omniful it is awsome",
     "share_url": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
@@ -29,7 +29,7 @@
       {
         "min_amount": [
           {
-            "amount": 120.0,
+            "amount": 10.0,
             "currency": "INR"
           }
         ],
@@ -110,18 +110,18 @@
     "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
   },
   "app_settings": {
-    "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
-    "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+    "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/hachiko/Icon-1024.png",
+    "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/hachiko/Icon-1024.png",
     "privacy_policy_url": "https://www.omniful.com/privacy-policy",
-    "app_bundle_id_ios": "theme.omniful.maple",
-    "app_bundle_id_android": "theme.omniful.maple",
+    "app_bundle_id_ios": "theme.omniful.hachiko",
+    "app_bundle_id_android": "theme.omniful.hachiko",
     "terms_and_conditions_url": "https://www.omniful.com/terms-of-service",
-    "theme_id": "Theme1",
-    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/GoogleService-Info.plist",
-    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/google-services.json",
+    "theme_id": "Theme2",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/hachiko/GoogleService-Info.plist",
+    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/hachiko/google-services.json",
     "primary_color": "#2C8335",
-    "merchant_email": "himanshusingh@hotmail.co.uk",
-    "app_name": "Maple",
+    "merchant_email": "himanshu.singh@omniful.com",
+    "app_name": "Hachiko",
     "menu_items": [
       {
         "type": "weblink",
