@@ -106,7 +106,7 @@
           "start_time": 1707036631000.0,
           "end_time": 1712220294000.0
         },
-        "action": "https://omniful-grocery.myshopify.com/collections/offers",
+        "action": "https://omniful-grocery.myshopify.com/collections/offer",
         "subtitle": "Countdown to Savings at Our Grocery Shop App!",
         "textColor": "#2C8335",
         "background": {
