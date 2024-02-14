@@ -1,34 +1,31 @@
 {
   "app_share_settings": {
-    "shareText": "hey checkout the app",
-    "shareURL": "https://test-himanshu2.myshopify.com"
+    "share_text": "hey checkout the maple App From Omniful it is awsome",
+    "share_url": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
     "show_recently_viewed": true
   },
   "help_settings": {
-    "faqPage": {
-      "loadURL": "https://test-himanshu2.myshopify.com/pages/contact"
-    },
-    "shopify_inbox": {
-      "loadUrl": "https://test-himanshu2.myshopify.com/?show_chat"
+    "faq_page": {
+      "load_url": "https://test-himanshu2.myshopify.com/pages/contact"
     },
     "whatsapp": {
       "number": "+919501975529",
-      "prefilledText": "Hello Want Help With!"
+      "prefilled_text": "Hello I loved 🥰 your App Can we connect!"
     },
     "email": {
-      "email": "himanshusingh@hotmail.co.uk",
-      "prefilledSubject": "Help me with",
-      "prefilledText": "Hello there"
+      "email": "himanshu.singh@omniful.com",
+      "prefilled_subject": "Hey there!",
+      "prefilled_text": "Want some help with buying products from your store"
     }
   },
   "product_page_settings": {
-    "show_product_recomendations": true,
+    "show_product_recommendations": true,
     "show_including_taxes": true,
-    "image_size": "potrait",
+    "image_size": "square",
     "image_content_mode": "fill",
-    "pay_later": [
+    "pay_later_options": [
       {
         "min_amount": [
           {
@@ -38,38 +35,28 @@
         ],
         "installment": 4,
         "title": "{{amount}} x 4 installment",
-        "action_url": "https://google.com",
+        "action_url": "https://www.afterpay.com/",
         "image_src": "https://static.shopney.co/integrations/paymentInstalment/afterpay.png"
-      },
-      {
-        "min_amount": [
-          {
-            "amount": 120.0,
-            "currency": "INR"
-          }
-        ],
-        "installment": 4,
-        "title": "{{amount}} x 4 installment",
-        "action_url": "https://google.com"
       }
     ],
-    "web_link": [
+    "universal_product_page_tabs": [
       {
         "show_web_link": true,
-        "title": "link 1",
-        "action_url": "https://google.com"
+        "title": "Read our privacy policy",
+        "action_url": "https://www.omniful.com/privacy-policy"
       },
       {
         "show_web_link": true,
-        "title": "link 2",
-        "action_url": "https://shopify.com"
+        "title": "Read more about After pay",
+        "action_url": "https://www.afterpay.com/"
       }
     ]
   },
   "inventory_settings": {
-    "followInventoryInDelivery": false,
-    "isPickupAvailable": true,
-    "few_left_in_stock": 8
+    "follows_inventory_in_delivery": false,
+    "is_pickup_available": true,
+    "few_left_in_stock": 5,
+    "force_country_checking": false
   },
   "integrations": [
     {
@@ -123,27 +110,63 @@
     "shopify_api_key": "bfa89f0bf52921c434208b8db562a052"
   },
   "app_settings": {
-    "app_icon_src": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
-    "privacy_policy_url": "https://al-sadhan.com",
-    "app_bundle_id": "com.omniful.app",
-    "terms_and_conditions_url": "https://al-sadhan.com/en/pages/returns-refunds",
+    "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+    "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/Icon-1024.png",
+    "privacy_policy_url": "https://www.omniful.com/privacy-policy",
+    "app_bundle_id_ios": "theme.omniful.maple",
+    "app_bundle_id_android": "theme.omniful.maple",
+    "terms_and_conditions_url": "https://www.omniful.com/terms-of-service",
     "theme_id": "Theme1",
-    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/tulsi/GoogleService-Info.plist",
-    "primary_color": "#f77a7a",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/GoogleService-Info.plist",
+    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/google-services.json",
+    "primary_color": "#2C8335",
     "merchant_email": "himanshusingh@hotmail.co.uk",
-    "app_name": "RED",
-    "menu_items": [],
-    "force_country_availability": false
+    "app_name": "Maple",
+    "menu_items": [
+      {
+        "type": "weblink",
+        "url": "https://omniful.com",
+        "title": "Web Link"
+      },
+      {
+        "type": "wishlist"
+      },
+      {
+        "type": "region"
+      },
+      {
+        "type": "help"
+      },
+      {
+        "type": "locateus"
+      },
+      {
+        "type": "rate"
+      },
+      {
+        "type": "share"
+      }
+    ]
   },
   "product_card_settings": {
-    "showMultipleImages": true,
-    "showOffer": true,
-    "showAddToCartButton": true,
-    "showVariants": true,
-    "showTaxInclusion": true,
-    "showCompareAtPrice": true,
-    "showNotifyForOutOfStock": true,
+    "show_multiple_images": true,
+    "show_offer": true,
+    "show_add_to_cart_button": true,
+    "show_variants": true,
+    "show_tax_inclusion": true,
+    "show_compare_at_price": true,
+    "show_notify_for_outofstock": true,
     "image_size": "square",
     "image_content_mode": "fill"
+  },
+  "force_update": {
+    "ios": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    },
+    "android": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    }
   }
 }
