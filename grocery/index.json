@@ -512,13 +512,12 @@
           },
           "number_of_column": 1
         },
-        "action": "https://omniful-grocery.myshopify.com/collections/cold-drinks",
         "type": "fixed",
         "elements": [
           {
             "value": {
               "height": 1280,
-              "action": "https://test-himanshu2.myshopify.com/collections/men-1",
+              "action": "https://omniful-grocery.myshopify.com/collections/all",
               "videoSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/neha.mp4",
               "width": 720
             },
