@@ -116,7 +116,7 @@
     "app_bundle_id_ios": "theme.omniful.maple",
     "app_bundle_id_android": "theme.omniful.maple",
     "terms_and_conditions_url": "https://www.omniful.com/terms-of-service",
-    "theme_id": "Theme1",
+    "theme_id": "Theme2",
     "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/GoogleService-Info.plist",
     "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/maple/google-services.json",
     "primary_color": "#2C8335",
