@@ -6,8 +6,54 @@
         "background": {
           "color": "#e47571"
         },
+        "text_alignment": "center",
+        "text": "Hey, Enjoy Ordering Online!",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
+      },
+      "type": "strip"
+    },
+    {
+      "value": {
+        "textColor": "#FFFFFF",
+        "background": {
+          "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/strip_background.png"
+        },
         "text_alignment": "leading",
-        "text": "Hey order above 500${'$'} and get free delivery",
+        "text": "Get premium offers and discounts on our online store!",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
+      },
+      "type": "strip"
+    },
+    {
+      "value": {
+        "textColor": "#FFFFFF",
+        "background": {
+          "color": "#B9EABE"
+        },
+        "text_alignment": "leading",
+        "text": "Order above 1000$ and get 10% discount on entire order. Order above 749$ and get 7.5% discount on entire order. Order above 499$ and get 5% discount on entire order.",
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
+      },
+      "type": "strip"
+    },
+    {
+      "value": {
+        "textColor": "#FFFFFF",
+        "background": {
+          "color": "#f8e5e9",
+          "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/strip_transparent_background.png"
+        },
+        "text_alignment": "center",
+        "text": "Hurray!",
         "visibility_time": {
           "start_time": 1707036631000.0,
           "end_time": 1712220294000.0
@@ -575,6 +621,7 @@
         "elements": [
           {
             "value": {
+              "title": "Shoes",
               "height": 243,
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand1.png",
@@ -603,6 +650,7 @@
           {
             "value": {
               "height": 243,
+              "title": "Shoes",
               "action": "https://test-himanshu2.myshopify.com/collections/men-1",
               "imageSrc": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/brand4.png",
               "width": 408
