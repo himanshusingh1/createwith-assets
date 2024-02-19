@@ -301,7 +301,7 @@
             "bottom": 16,
             "left": 16,
             "top": 16,
-            "right": 16
+            "right": 100
           },
           "column_spacing": 16,
           "row_spacing": 16,
