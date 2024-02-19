@@ -303,8 +303,8 @@
             "top": 16,
             "right": 16
           },
-          "column_spacing": 100,
-          "row_spacing": 16,
+          "column_spacing": 16,
+          "row_spacing": 100,
           "number_of_rows": 2,
           "number_of_column": 6
         },
