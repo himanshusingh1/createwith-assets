@@ -301,14 +301,14 @@
             "bottom": 16,
             "left": 16,
             "top": 16,
-            "right": 100
+            "right": 16
           },
-          "column_spacing": 16,
+          "column_spacing": 100,
           "row_spacing": 16,
           "number_of_rows": 2,
           "number_of_column": 6
         },
-        "subtitle": "Shop Great Shoes from DR MARTENS!",
+        "subtitle": "Shop Some Great Shoes from DR MARTENS!",
         "title": "DR MARTENS",
         "remote_collection": {
           "type": "remote",
