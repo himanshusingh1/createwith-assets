@@ -4,7 +4,7 @@
       "value": {
         "textColor": "#FFFFFF",
         "background": {
-          "color": "#e47571"
+          "color": "#760694"
         },
         "text_alignment": "center",
         "text": "Hey, Enjoy Ordering Online!",
@@ -34,7 +34,7 @@
       "value": {
         "textColor": "#FFFFFF",
         "background": {
-          "color": "#B9EABE"
+          "color": "#cd1ddd"
         },
         "text_alignment": "leading",
         "text": "Order above 1000$ and get 10% discount on entire order. Order above 749$ and get 7.5% discount on entire order. Order above 499$ and get 5% discount on entire order.",
@@ -49,7 +49,7 @@
       "value": {
         "textColor": "#FFFFFF",
         "background": {
-          "color": "#f8e5e9",
+          "color": "#efe8fd",
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/strip_transparent_background.png"
         },
         "text_alignment": "center",
