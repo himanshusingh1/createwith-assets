@@ -189,6 +189,22 @@
         "subtitle": "20% - 50% OFF",
         "textColor": "#760694",
         "background": {
+          "image": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?cs=srgb&dl=pexels-pixabay-235986.jpg&fm=jpg&_gl=1*xe4h9t*_ga*NjE3NzMwNDgxLjE3MDgzMzU0Mjk.*_ga_8JE65Q40S6*MTcwODMzNTQyOS4xLjEuMTcwODMzNTQzMS4wLjAuMA.."
+        },
+        "title": "Black friday sale | Ends In"
+      },
+      "type": "count_down_timer"
+    },
+    {
+      "value": {
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        },
+        "action": "",
+        "subtitle": "20% - 50% OFF",
+        "textColor": "#760694",
+        "background": {
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/count_down_background.png"
         },
         "title": "Black friday sale | Ends In"
