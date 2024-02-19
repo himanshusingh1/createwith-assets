@@ -252,6 +252,37 @@
     },
     {
       "value": {
+        "action": "https://test-himanshu2.myshopify.com/collections/dr-martens",
+        "showViewAll": true,
+        "type": "horizontal_scroll",
+        "grid_config": {
+          "contentMargin": {
+            "bottom": 16,
+            "left": 16,
+            "top": 16,
+            "right": 16
+          },
+          "column_spacing": 16,
+          "row_spacing": 16,
+          "number_of_rows": 2,
+          "number_of_column": 6
+        },
+        "subtitle": "Shop Some Great Shoes from DR MARTENS!",
+        "title": "DR MARTENS",
+        "remote_collection": {
+          "type": "remote",
+          "handle": "dr-martens",
+          "maximum": 11
+        },
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        }
+      },
+      "type": "grid"
+    },
+    {
+      "value": {
         "background": {
           "color": "#FFFFFF"
         }
@@ -844,3 +875,4 @@
     }
   ]
 }
+
