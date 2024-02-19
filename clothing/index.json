@@ -301,9 +301,9 @@
             "bottom": 16,
             "left": 16,
             "top": 16,
-            "right": 100
+            "right": 16
           },
-          "column_spacing": 100,
+          "column_spacing": 16,
           "row_spacing": 16,
           "number_of_rows": 2,
           "number_of_column": 6
@@ -530,6 +530,7 @@
       "type": "grid",
       "value": {
         "title": "Explore Categories",
+        "type": "horizontal_scroll",
         "grid_config": {
           "row_spacing": 16,
           "column_spacing": 16,
