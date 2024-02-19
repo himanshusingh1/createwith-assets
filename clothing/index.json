@@ -529,7 +529,7 @@
     {
       "type": "grid",
       "value": {
-        "title": "Explore Categories",
+        "title": "Categories",
         "type": "horizontal_scroll",
         "grid_config": {
           "row_spacing": 16,
