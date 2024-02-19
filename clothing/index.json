@@ -299,7 +299,7 @@
         "grid_config": {
           "contentMargin": {
             "bottom": 16,
-            "left": 100,
+            "left": 16,
             "top": 16,
             "right": 16
           },
