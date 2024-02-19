@@ -172,6 +172,23 @@
         "subtitle": "20% - 50% OFF",
         "textColor": "#760694",
         "background": {
+          "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/strip_transparent_background.png",
+          "color": "#57477b"
+        },
+        "title": "Black friday sale | Ends In"
+      },
+      "type": "count_down_timer"
+    },
+    {
+      "value": {
+        "visibility_time": {
+          "start_time": 1707036631000.0,
+          "end_time": 1712220294000.0
+        },
+        "action": "",
+        "subtitle": "20% - 50% OFF",
+        "textColor": "#760694",
+        "background": {
           "image": "https://raw.githubusercontent.com/himanshusingh1/assets/main/t2/count_down_background.png"
         },
         "title": "Black friday sale | Ends In"
