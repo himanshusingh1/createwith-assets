@@ -21,8 +21,8 @@
     }
   },
   "product_page_settings": {
-    "show_product_recommendations": false,
-    "show_including_taxes": false,
+    "show_product_recommendations": true,
+    "show_including_taxes": true,
     "image_size": "square",
     "image_content_mode": "fill",
     "pay_later_options": [
