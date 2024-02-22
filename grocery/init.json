@@ -122,6 +122,7 @@
     "primary_color": "#2C8335",
     "merchant_email": "himanshusingh@hotmail.co.uk",
     "app_name": "Maple",
+    "store_logo": "https://raw.githubusercontent.com/himanshusingh1/assets/main/store_logo.png",
     "menu_items": [
       {
         "type": "weblink",
