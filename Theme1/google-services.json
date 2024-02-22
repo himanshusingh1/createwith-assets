@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "732938841958",
+    "project_id": "mapple-demo-app",
+    "storage_bucket": "mapple-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732938841958:android:7cdc59a5f3c22946d0e2a7",
+        "android_client_info": {
+          "package_name": "theme.omniful.hachiko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIZn3lm4DN-mmLpbBa1qA6xXq5yPw3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732938841958:android:e82716aa015b87a6d0e2a7",
+        "android_client_info": {
+          "package_name": "theme.omniful.maple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIZn3lm4DN-mmLpbBa1qA6xXq5yPw3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732938841958:android:01559af9c10cde54d0e2a7",
+        "android_client_info": {
+          "package_name": "theme.omniful.tulsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIZn3lm4DN-mmLpbBa1qA6xXq5yPw3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

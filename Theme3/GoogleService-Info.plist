@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyA8qXmNE9Sw_ftUb8oVxzmwDqna1o0WaTg</string>
+	<string>AIzaSyBzLEFEHq8TuHggPoWuW2a9NgfaxbYb5s8</string>
 	<key>GCM_SENDER_ID</key>
-	<string>453372728981</string>
+	<string>732938841958</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.omniful.debugapp</string>
+	<string>theme.omniful.tulsi</string>
 	<key>PROJECT_ID</key>
-	<string>al-sadan-ecom</string>
+	<string>mapple-demo-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>al-sadan-ecom.appspot.com</string>
+	<string>mapple-demo-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:453372728981:ios:dac4cd5e3a6b36a36b2d9c</string>
+	<string>1:732938841958:ios:7527290b9c0b2bdcd0e2a7</string>
 </dict>
 </plist>
