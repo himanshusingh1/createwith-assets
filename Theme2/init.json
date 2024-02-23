@@ -1,6 +1,6 @@
 {
   "app_share_settings": {
-    "share_text": "hey checkout the Hachiko App From Omniful it is awsome",
+    "share_text": "hey checkout the Hachiko App From createwith it is awsome",
     "share_url": "https://test-himanshu2.myshopify.com"
   },
   "search_page_settings": {
@@ -15,7 +15,7 @@
       "prefilled_text": "Hello I loved 🥰 your App Can we connect!"
     },
     "email": {
-      "email": "himanshu.singh@omniful.com",
+      "email": "himanshu.singh@createwith.com",
       "prefilled_subject": "Hey there!",
       "prefilled_text": "Want some help with buying products from your store"
     }
@@ -43,7 +43,7 @@
       {
         "show_web_link": true,
         "title": "Read our privacy policy",
-        "action_url": "https://www.omniful.com/privacy-policy"
+        "action_url": "https://www.createwith.com/privacy-policy"
       },
       {
         "show_web_link": true,
@@ -112,10 +112,10 @@
   "app_settings": {
     "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Theme2/Icon-1024.png",
     "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Theme2/Icon-1024.png",
-    "privacy_policy_url": "https://www.omniful.com/privacy-policy",
-    "app_bundle_id_ios": "theme.omniful.hachiko",
-    "app_bundle_id_android": "theme.omniful.hachiko",
-    "terms_and_conditions_url": "https://www.omniful.com/terms-of-service",
+    "privacy_policy_url": "https://www.createwith.com/privacy-policy",
+    "app_bundle_id_ios": "preview.createwith.theme2",
+    "app_bundle_id_android": "preview.createwith.theme2",
+    "terms_and_conditions_url": "https://www.createwith.com/terms-of-service",
     "theme_id": "Theme2",
     "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Theme2/GoogleService-Info.plist",
     "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/Theme2/google-services.json",
@@ -125,7 +125,7 @@
     "menu_items": [
       {
         "type": "weblink",
-        "url": "https://omniful.com",
+        "url": "https://createwith.com",
         "title": "Web Link"
       },
       {
