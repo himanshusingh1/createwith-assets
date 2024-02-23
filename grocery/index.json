@@ -110,7 +110,8 @@
         "subtitle": "Countdown to Savings at Our Grocery Shop App!",
         "textColor": "#2C8335",
         "background": {
-          "color": "#E9FFEB"
+          "color": "#E9FFEB",
+          "image": "https://github.com/himanshusingh1/createwith-assets/blob/main/timerbackground.png"
         },
         "title": "Last-Minute Deals"
       },
