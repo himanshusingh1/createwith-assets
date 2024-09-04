@@ -1,7 +1,7 @@
 {
   "data": {
     "id": 108,
-    "name": "caffenzo.in",
+    "name": "Caffenzo",
     "contact_number": "9848033786",
     "shop_domain": "caffenzo-in.myshopify.com",
     "sales_channel": "shopify",
@@ -11,20 +11,20 @@
     "metadata": {
       "code": 9668,
       "about_us_url": "https://caffenzo-in.myshopify.com",
-      "ios_identifier": "com.omniful.app.caffenzo.in",
+      "ios_identifier": "com.createwith.caffenzo.in",
       "merchant_email": "cmd@cafedesire.co.in",
-      "app_display_name": "caffenzo.in",
-      "terms_of_use_url": "",
-      "android_identifier": "com.omniful.app.caffenzo.in",
-      "privacy_policy_url": ""
+      "app_display_name": "Caffenzo",
+      "terms_of_use_url": "https://caffenzo.in/pages/shipping-policy",
+      "android_identifier": "com.createwith.caffenzo.in",
+      "privacy_policy_url": "https://caffenzo.in/pages/privacy-policy"
     },
-    "theme_id": 3,
+    "theme_id": 4,
     "home_page_id": "33c70dd8-ce06-4423-a09f-e65f65b90a9a",
     "category_page_id": "7f362758-77fe-455d-b9d4-714e448c2225",
     "appstore_settings": {},
     "app_settings": null,
     "pricing_plan": {},
-    "storefront_token": "eb94a31a1fd0de40696237ddf9047f39",
+    "storefront_token": "51591fec97ef22c144a6592c0ecd02b0",
     "code": 9668,
     "configurations": [
       {
@@ -42,7 +42,7 @@
         "data": {
           "image_size": "square",
           "show_offer": true,
-          "image_content_mode": "scale-fill",
+          "image_content_mode": "scale_fill",
           "show_variant_count": true,
           "show_add_to_cart_btn": true,
           "show_multiple_images": true,
@@ -56,10 +56,10 @@
         "name": "help",
         "data": {
           "email": "cmd@cafedesire.co.in",
-          "faq_url": null,
+          "faq_url": "https://caffenzo.in/pages/contact",
           "faq_page": false,
           "shopify_inbox": false,
-          "whatsapp_number": null
+          "whatsapp_number": "+919100936679"
         },
         "created_at": "2024-08-29T11:50:07.029Z",
         "updated_at": "2024-08-29T11:50:07.953Z"
@@ -78,7 +78,7 @@
         "id": 578,
         "name": "search",
         "data": {
-          "recently_viewed_product_grid": false
+          "recently_viewed_product_grid": true
         },
         "created_at": "2024-08-29T11:50:07.049Z",
         "updated_at": "2024-08-29T11:50:07.049Z"
@@ -89,17 +89,12 @@
         "data": {
           "show_help": true,
           "show_rate": true,
-          "show_share": true,
+          "show_share": false,
           "show_region": false,
           "show_about_us": false,
           "show_wishlist": true,
           "show_locate_us": false,
-          "custom_menu_option": [
-            {
-              "url": "",
-              "name": ""
-            }
-          ]
+          "custom_menu_option": []
         },
         "created_at": "2024-08-29T11:50:07.058Z",
         "updated_at": "2024-09-03T13:24:26.395Z"
@@ -108,18 +103,18 @@
         "id": 580,
         "name": "brand",
         "data": {
-          "app_icon": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/031ece1b-52b1-4d0f-b894-24dd70653ad3",
-          "store_logo": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/83b4ad02-42ec-46be-a675-a0e14f71b482",
+          "app_icon": "https://raw.githubusercontent.com/himanshusingh1/createwith-assets/main/cafedesire/Logo.png",
+          "store_logo": "https://raw.githubusercontent.com/himanshusingh1/createwith-assets/main/cafedesire/store_logo.png",
           "about_us_url": "https://caffenzo.in/pages/contact",
           "primary_color": "#006464",
           "splash_screen": {
-            "src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/2119763b-ad06-430c-a816-793c016eb52e",
+            "src": "https://raw.githubusercontent.com/himanshusingh1/createwith-assets/main/cafedesire/splash_screen.png",
             "media_type": "image"
           },
           "ios_identifier": "com.omniful.app.caffenzo.in",
           "merchant_email": "cmd@cafedesire.co.in",
           "secondary_color": "#006464",
-          "app_display_name": "caffenzo",
+          "app_display_name": "Caffenzo",
           "terms_of_use_url": "https://caffenzo.in/pages/shipping-policy",
           "android_identifier": "com.omniful.app.caffenzo.in",
           "privacy_policy_url": "https://caffenzo.in/pages/privacy-policy"
@@ -254,7 +249,7 @@
               "number_of_installments": 3
             }
           ],
-          "image_content_mode": "scale-fill",
+          "image_content_mode": "scale_fill",
           "show_including_taxes": false,
           "show_product_recommendations": true
         },
