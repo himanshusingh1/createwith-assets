@@ -1,0 +1,297 @@
+{
+  "data": {
+    "id": 108,
+    "name": "caffenzo.in",
+    "contact_number": "9848033786",
+    "shop_domain": "caffenzo-in.myshopify.com",
+    "sales_channel": "shopify",
+    "address": "Survey 54 , Vikrampuri Main Road ",
+    "status": "active",
+    "email": "cmd@cafedesire.co.in",
+    "metadata": {
+      "code": 9668,
+      "about_us_url": "https://caffenzo-in.myshopify.com",
+      "ios_identifier": "com.omniful.app.caffenzo.in",
+      "merchant_email": "cmd@cafedesire.co.in",
+      "app_display_name": "caffenzo.in",
+      "terms_of_use_url": "",
+      "android_identifier": "com.omniful.app.caffenzo.in",
+      "privacy_policy_url": ""
+    },
+    "theme_id": 3,
+    "home_page_id": "33c70dd8-ce06-4423-a09f-e65f65b90a9a",
+    "category_page_id": "7f362758-77fe-455d-b9d4-714e448c2225",
+    "appstore_settings": {},
+    "app_settings": null,
+    "pricing_plan": {},
+    "storefront_token": "eb94a31a1fd0de40696237ddf9047f39",
+    "code": 9668,
+    "configurations": [
+      {
+        "id": 585,
+        "name": "cart",
+        "data": {
+          "show_delivery_instruction": false
+        },
+        "created_at": "2024-09-03T12:58:47.520Z",
+        "updated_at": "2024-09-03T12:58:47.520Z"
+      },
+      {
+        "id": 575,
+        "name": "product_card",
+        "data": {
+          "image_size": "square",
+          "show_offer": true,
+          "image_content_mode": "scale-fill",
+          "show_variant_count": true,
+          "show_add_to_cart_btn": true,
+          "show_multiple_images": true,
+          "show_compare_at_price": true
+        },
+        "created_at": "2024-08-29T11:50:07.015Z",
+        "updated_at": "2024-09-03T12:59:38.258Z"
+      },
+      {
+        "id": 576,
+        "name": "help",
+        "data": {
+          "email": "cmd@cafedesire.co.in",
+          "faq_url": null,
+          "faq_page": false,
+          "shopify_inbox": false,
+          "whatsapp_number": null
+        },
+        "created_at": "2024-08-29T11:50:07.029Z",
+        "updated_at": "2024-08-29T11:50:07.953Z"
+      },
+      {
+        "id": 577,
+        "name": "app_share",
+        "data": {
+          "share_url": null,
+          "share_text": "  "
+        },
+        "created_at": "2024-08-29T11:50:07.039Z",
+        "updated_at": "2024-09-03T12:58:47.487Z"
+      },
+      {
+        "id": 578,
+        "name": "search",
+        "data": {
+          "recently_viewed_product_grid": false
+        },
+        "created_at": "2024-08-29T11:50:07.049Z",
+        "updated_at": "2024-08-29T11:50:07.049Z"
+      },
+      {
+        "id": 579,
+        "name": "menu",
+        "data": {
+          "show_help": true,
+          "show_rate": true,
+          "show_share": true,
+          "show_region": false,
+          "show_about_us": false,
+          "show_wishlist": true,
+          "show_locate_us": false,
+          "custom_menu_option": [
+            {
+              "url": "",
+              "name": ""
+            }
+          ]
+        },
+        "created_at": "2024-08-29T11:50:07.058Z",
+        "updated_at": "2024-09-03T13:24:26.395Z"
+      },
+      {
+        "id": 580,
+        "name": "brand",
+        "data": {
+          "app_icon": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/031ece1b-52b1-4d0f-b894-24dd70653ad3",
+          "store_logo": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/83b4ad02-42ec-46be-a675-a0e14f71b482",
+          "about_us_url": "https://caffenzo.in/pages/contact",
+          "primary_color": "#006464",
+          "splash_screen": {
+            "src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/d14987f7-e04f-4935-a307-401fc1001be3/launch/2024-09-03/2119763b-ad06-430c-a816-793c016eb52e",
+            "media_type": "image"
+          },
+          "ios_identifier": "com.omniful.app.caffenzo.in",
+          "merchant_email": "cmd@cafedesire.co.in",
+          "secondary_color": "#006464",
+          "app_display_name": "caffenzo",
+          "terms_of_use_url": "https://caffenzo.in/pages/shipping-policy",
+          "android_identifier": "com.omniful.app.caffenzo.in",
+          "privacy_policy_url": "https://caffenzo.in/pages/privacy-policy"
+        },
+        "created_at": "2024-08-29T11:50:07.067Z",
+        "updated_at": "2024-09-03T13:13:48.827Z"
+      },
+      {
+        "id": 581,
+        "name": "inventory",
+        "data": {
+          "enable_pickup": false,
+          "follow_inventory": false,
+          "show_low_in_stock": false,
+          "restrict_user_countries": false,
+          "low_stock_alert_threshold": 0,
+          "hide_out_of_stock_products": false
+        },
+        "created_at": "2024-08-29T11:50:07.078Z",
+        "updated_at": "2024-09-03T12:58:47.416Z"
+      },
+      {
+        "id": 582,
+        "name": "product",
+        "data": {
+          "show_tabs": [],
+          "image_size": "square",
+          "pay_later_options": [
+            {
+              "id": "afterpay",
+              "title": "{{amount}} x 4 interest-free payments",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/afterpayweb.png",
+              "is_active": false,
+              "action_url": "https://www.afterpay.com/",
+              "minimum_amount": [
+                {
+                  "amount": 100,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/afterpaymobile.png",
+              "number_of_installments": 4
+            },
+            {
+              "id": "klarna",
+              "title": "{{amount}} x 3 interest-free payments",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/klarnaweb.jpeg",
+              "is_active": false,
+              "action_url": "https://www.klarna.com/",
+              "minimum_amount": [
+                {
+                  "amount": 100,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/klarnamobile.jpeg",
+              "number_of_installments": 4
+            },
+            {
+              "id": "sezzle",
+              "title": "{{amount}} X 4 installments over 6 weeks with 0% interest",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/sezzleweb.jpeg",
+              "is_active": false,
+              "action_url": "https://sezzle.com/",
+              "minimum_amount": [
+                {
+                  "amount": 100,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/sezzlemobile.png",
+              "number_of_installments": 4
+            },
+            {
+              "id": "zip_pay",
+              "title": "{{amount}} x 3 months interest free",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/zipweb.png",
+              "is_active": false,
+              "action_url": "https://zip.co/",
+              "minimum_amount": [
+                {
+                  "amount": 100,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/zipmobile.png",
+              "number_of_installments": 3
+            },
+            {
+              "id": "shop_pay",
+              "title": "{{amount}} x 4 bi weekly interest-free installment",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/shoppayweb.webp",
+              "is_active": false,
+              "action_url": "https://shop.app/shop-pay",
+              "minimum_amount": [
+                {
+                  "amount": 100,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/shoppaymobile.png",
+              "number_of_installments": 4
+            },
+            {
+              "id": "simpl_pay",
+              "title": "Buy Now, Pay Later!",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/simplweb.png",
+              "is_active": false,
+              "action_url": "https://getsimpl.com/",
+              "minimum_amount": [
+                {
+                  "amount": 1,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/simplmobile.png",
+              "number_of_installments": 3
+            },
+            {
+              "id": "cash_free",
+              "title": "Buy Now, Pay in 3 Intrest free payments!",
+              "image_src": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/cashfreeweb.png",
+              "is_active": false,
+              "action_url": " ",
+              "minimum_amount": [
+                {
+                  "amount": 1,
+                  "currency": "INR"
+                }
+              ],
+              "image_src_mobile": "https://omniful-production-uploads.s3.eu-central-1.amazonaws.com/app-builder-service/after_pay_images/chasfreemobile.png",
+              "number_of_installments": 3
+            }
+          ],
+          "image_content_mode": "scale-fill",
+          "show_including_taxes": false,
+          "show_product_recommendations": true
+        },
+        "created_at": "2024-08-29T11:50:07.088Z",
+        "updated_at": "2024-09-03T12:59:38.291Z"
+      },
+      {
+        "id": 583,
+        "name": "update_settings",
+        "data": {
+          "ios": {
+            "force": false,
+            "minimum_version": "1.0.0"
+          },
+          "android": {
+            "force": false,
+            "minimum_version": "1.80"
+          }
+        },
+        "created_at": "2024-08-29T11:50:07.105Z",
+        "updated_at": "2024-08-29T11:50:07.105Z"
+      },
+      {
+        "id": 584,
+        "name": "navigation_settings",
+        "data": {
+          "bottom_navigation_settings": {
+            "show": false,
+            "tabs": []
+          }
+        },
+        "created_at": "2024-08-29T11:50:07.115Z",
+        "updated_at": "2024-08-29T11:50:07.115Z"
+      }
+    ],
+    "integrations": []
+  },
+  "is_success": true,
+  "status_code": 200
+}
