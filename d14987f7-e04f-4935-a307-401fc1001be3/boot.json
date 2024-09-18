@@ -42,7 +42,7 @@
         "data": {
           "image_size": "square",
           "show_offer": true,
-          "image_content_mode": "scale_fill",
+          "image_content_mode": "fit",
           "show_variant_count": true,
           "show_add_to_cart_btn": true,
           "show_multiple_images": true,
@@ -249,7 +249,7 @@
               "number_of_installments": 3
             }
           ],
-          "image_content_mode": "scale_fill",
+          "image_content_mode": "fit",
           "show_including_taxes": false,
           "show_product_recommendations": true
         },
