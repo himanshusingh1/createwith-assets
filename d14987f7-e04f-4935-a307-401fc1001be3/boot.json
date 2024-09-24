@@ -290,7 +290,8 @@
         "source": "gameball",
         "api_key": "206bcf892aef4009b03811f3083e2a71",
         "is_enabled": true,
-        "type": "gameball"
+        "type": "gameball",
+        "integration": "loyalty"
       }
     ]
   },
