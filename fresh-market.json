@@ -1,0 +1,217 @@
+{
+    "data": {
+        "shop": {
+            "domain": "w111m1-4n.myshopify.com",
+            "name": "Fresh market",
+            "shopify_api_key": "7fc4c8f8399b2b9a7460f146c6ea83d8",
+            "deeplink_base_url": "https://share.omniful.ai/deeplink/handle/3",
+            "store_id": ""
+        },
+        "branding": {
+            "app_name": "CWShoesStore",
+            "primary_color": "#060e0d",
+            "secondary_color": "#004e74",
+            "ios_bundle_id": "io.createwith.preview",
+            "android_bundle_id": "preview.createwith.io",
+            "splash": {
+                "type": "image"
+            },
+            "privacy_policy": "https://checkout.shopify.com/94850744616/policies/47201452328.html?locale=en"
+        },
+        "integrations": [
+            {
+                "identifier": "WHATSAPP",
+                "aux_data": {
+                    "prefilled_message": "Hey There, CreateWith Team, I love your app builder, Can I have the hidden 10% discount ??",
+                    "phone_number": "918130733307"
+                },
+                "is_enabled": true
+            },
+            {
+                "identifier": "EMAIL",
+                "aux_data": {
+                    "email": "admin@createwith.io",
+                    "prefilled_subject": "Hello CreateWith Team!",
+                    "prefilled_message": "Hey There, CreateWith Team, I love your app builder, Can I have the hidden 10% discount ??"
+                },
+                "is_enabled": true
+            },
+            {
+                "identifier": "FAQ",
+                "aux_data": {
+                    "url": "https://createwith.io"
+                },
+                "is_enabled": true
+            },
+            {
+                "identifier": "PHONE",
+                "aux_data": {
+                    "phone_number": "918130733307"
+                },
+                "is_enabled": true
+            },
+            {
+                "identifier": "INBOX",
+                "aux_data": {
+                    "showFloatingIcon": true,
+                    "onLeft": true,
+                    "shop_id": "tsAvBu-yCoCuQALtyKRnyG0ZiW757QQLw_-aAkJ6Uzo",
+                    "primary_color": "#FF5733",
+                    "secondary_color": "#33C1FF",
+                    "tertiary_color": "#A833FF"
+                },
+                "is_enabled": true
+            },
+            {
+                "identifier": "PUSH_BACK_IN_STOCK",
+                "is_enabled": true
+            },
+            {
+                "identifier": "SHOPIFY_DISCOVERY",
+                "is_enabled": true
+            },
+            {
+                "identifier": "SHOPIFY_NEW_LOGIN",
+                "api_key": "4210547a-8e82-42c5-b60a-924a480688a6",
+                "is_enabled": true
+            }
+        ],
+        "settings": {
+            "inventory": {
+                "is_pickup_enabled": false,
+                "force_inventory_check_on_delivery": true,
+                "allow_serviceable_country_only": false,
+                "hide_out_of_stock_products": false,
+                "show_low_in_stock": {
+                    "show": true,
+                    "thresold": 100
+                }
+            },
+            "share": {
+                "app_share_text": "Download the Best Mobile App for your store"
+            },
+            "product_card": {
+                "show_multiple_images": true,
+                "show_variants": false,
+                "show_offer": true,
+                "show_compare_at_price": true,
+                "show_add_to_basket_button": true,
+                "image_orientation": "square",
+                "image_content_mode": "fill"
+            },
+            "navigation": {
+                "bottom_navigation_settings": [
+                    {
+                        "selected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1753352961915-home%20%28Selected%29.png",
+                        "selected_title": "Home",
+                        "showcase": "https://share.createwith.io/deeplink/handle/3/s/127990b0-4990-4e33-adcb-3e5ce6cd36f2",
+                        "unselected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1753352972900-home%20%28unselected%29.png",
+                        "unselected_title": "Home"
+                    },
+                    {
+                        "selected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/cwshoesstore.myshopify.com/1755603536034-menu%20selected%201.png",
+                        "selected_title": "Collections",
+                        "showcase": "https://share.createwith.io/deeplink/handle/3/s/bcc6c4ea-a7cc-4897-a774-59600d831219",
+                        "unselected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/cwshoesstore.myshopify.com/1755603541776-menu%201.png",
+                        "unselected_title": "Collections"
+                    },
+                    {
+                        "selected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1755509790391-Group%20427321913.png",
+                        "selected_title": "Sneakers",
+                        "showcase": "https://share.createwith.io/deeplink/handle/3/p/leiro-black-espadrille",
+                        "unselected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1755509929749-Group%20427321912.png",
+                        "unselected_title": "Sneakers"
+                    },
+                    {
+                        "selected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1753353033184-user%20%28selected%29.png",
+                        "selected_title": "Account",
+                        "showcase": "https://share.createwith.io/deeplink/handle/3/s/cf05be78-860d-4816-8862-d4a00cf69736",
+                        "unselected_image": "https://createwithapp.nyc3.digitaloceanspaces.com/uploads/1753353044896-profile%20%28selected%29.png",
+                        "unselected_title": "Account"
+                    }
+                ],
+                "top_navigation_settings": {
+                    "background": {
+                        "background_image": ""
+                    },
+                    "left_stack": [
+                        {
+                            "type": "LOCATION"
+                        }
+                    ],
+                    "right_stack": [
+                        {
+                            "type": "SERVICE"
+                        }
+                    ],
+                    "search_bar_settings": {
+                        "show_qrcode_search": true,
+                        "show_search_bar": true,
+                        "show_voice_search": true
+                    }
+                }
+            }
+        },
+        "update_settings": {
+            "ios": {
+                "force": false,
+                "minimum_version": "0"
+            },
+            "android": {
+                "force": false,
+                "minimum_version": "0"
+            }
+        },
+        "primary_pages": [
+            {
+                "identifier": "65b6e897-c341-4c08-94c9-a5c0d43fe636",
+                "page_type": "WISHLIST",
+                "title": "WISHLIST",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "s"
+            },
+            {
+                "identifier": "0206791e-d697-41de-bf64-c039c130a378",
+                "page_type": "CART",
+                "title": "CART",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "cr"
+            },
+            {
+                "identifier": "bcc6c4ea-a7cc-4897-a774-59600d831219",
+                "page_type": "COLLECTION",
+                "title": "Collection",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "s"
+            },
+            {
+                "identifier": "127990b0-4990-4e33-adcb-3e5ce6cd36f2",
+                "page_type": "HOME",
+                "title": "Home",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "s"
+            },
+            {
+                "identifier": "cf05be78-860d-4816-8862-d4a00cf69736",
+                "page_type": "MENU",
+                "title": "Menu",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "s"
+            },
+            {
+                "identifier": "e655af42-31d9-43b7-8a0c-59f0e33f47f9",
+                "page_type": "PDP",
+                "title": "Product",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "p"
+            },
+            {
+                "identifier": "c64a868d-a44a-4c82-a798-06ceedda831d",
+                "page_type": "SEARCH",
+                "title": "Search",
+                "is_in_draft": true,
+                "deeplink_path_identifier": "s"
+            }
+        ]
+    }
+}
