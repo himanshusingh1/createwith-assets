@@ -1,0 +1,186 @@
+{
+  "regions": {
+    "Dubai": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 8, "minute": 0 },
+        "endTime": { "hour": 11, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 11, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 11, "minute": 0 },
+        "endTime": { "hour": 14, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 3",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 17, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 12, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 4",
+        "startTime": { "hour": 17, "minute": 0 },
+        "endTime": { "hour": 20, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 12, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 5",
+        "startTime": { "hour": 20, "minute": 0 },
+        "endTime": { "hour": 23, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 12, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Sharjah": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Ajman": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Umm Al Quwain": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Ras Al Khaimah": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Fujairah": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      }
+    ],
+
+    "Abu Dhabi & Al Ain": [
+      {
+        "slot": "Slot 1",
+        "startTime": { "hour": 9, "minute": 0 },
+        "endTime": { "hour": 12, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryStart",
+          "offset": { "days": -1, "hours": 10, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 2",
+        "startTime": { "hour": 14, "minute": 0 },
+        "endTime": { "hour": 18, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 9, "minutes": 0 }
+        }
+      },
+      {
+        "slot": "Slot 3",
+        "startTime": { "hour": 18, "minute": 0 },
+        "endTime": { "hour": 22, "minute": 0 },
+        "cutoff": {
+          "appliesTo": "deliveryDate",
+          "offset": { "days": 0, "hours": 12, "minutes": 0 }
+        }
+      }
+    ]
+  }
+}
